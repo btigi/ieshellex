@@ -1,6 +1,6 @@
 # IEShellEx
 
-A series of plugin shell extensions for the Windows shell to expose the content of file-types used in the Infinity Engine. For more details view the application [readme](https://github.com/btigi/ieshellex/src/Documentation/Readme.html)
+A series of plugin shell extensions for the Windows shell to expose the content of file-types used in the Infinity Engine. For more details view the application [readme](https://htmlpreview.github.io/?https://github.com/btigi/ieshellex/blob/master/src/Documentation/Readme.html)
 
 ## Usage
 
