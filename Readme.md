@@ -10,6 +10,8 @@ __Prerequisites__
 
 - Powershell
 
+The recommended installation method is the pre-built installation [executation](https://github.com/btigi/ieshellex/releases/), though shell extensions can be manually installed a below.
+
 Shell extensions must be registered with the Windows shell. IEShellEx this can be done via the use of ServerRegistrationManager.exe, e.g. 
 ```
 ServerRegistrationManager.exe install IE2DAInfotip.dll -codebase

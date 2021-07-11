@@ -12,7 +12,6 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D76AD633-7409-413D-A599-272DBA942387}"
 	ProjectSection(SolutionItems) = preProject
 		Documentation\Readme.html = Documentation\Readme.html
-		Readme.md = Readme.md
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IETlkInfotip", "IETlkInfotip\IETlkInfotip.csproj", "{FE6C1EDE-B667-4B93-8242-E7986E2B3E1E}"
