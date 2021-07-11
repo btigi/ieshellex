@@ -1,0 +1,4679 @@
+<?xml version="1.0" encoding="ibm850"?>
+<ArrayOfAreaData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0002</Filename>
+  <Filesize>4238</Filesize>
+  <Width>14</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0100</Filename>
+  <Filesize>82290</Filesize>
+  <Width>67</Width>
+  <Height>50</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0100N</Filename>
+  <Filesize>81300</Filesize>
+  <Width>67</Width>
+  <Height>50</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0101</Filename>
+  <Filesize>15428</Filesize>
+  <Width>33</Width>
+  <Height>24</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0102</Filename>
+  <Filesize>14162</Filesize>
+  <Width>32</Width>
+  <Height>23</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0103</Filename>
+  <Filesize>4444</Filesize>
+  <Width>16</Width>
+  <Height>11</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0104</Filename>
+  <Filesize>4876</Filesize>
+  <Width>16</Width>
+  <Height>11</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0105</Filename>
+  <Filesize>2528</Filesize>
+  <Width>9</Width>
+  <Height>6</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0106</Filename>
+  <Filesize>2780</Filesize>
+  <Width>9</Width>
+  <Height>6</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0107</Filename>
+  <Filesize>1776</Filesize>
+  <Width>8</Width>
+  <Height>6</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0108</Filename>
+  <Filesize>12960</Filesize>
+  <Width>22</Width>
+  <Height>16</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0109</Filename>
+  <Filesize>12238</Filesize>
+  <Width>22</Width>
+  <Height>16</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0110</Filename>
+  <Filesize>10898</Filesize>
+  <Width>22</Width>
+  <Height>16</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0111</Filename>
+  <Filesize>11674</Filesize>
+  <Width>25</Width>
+  <Height>18</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0112</Filename>
+  <Filesize>35804</Filesize>
+  <Width>41</Width>
+  <Height>29</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0114</Filename>
+  <Filesize>9220</Filesize>
+  <Width>22</Width>
+  <Height>15</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0115</Filename>
+  <Filesize>7108</Filesize>
+  <Width>18</Width>
+  <Height>12</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0116</Filename>
+  <Filesize>12460</Filesize>
+  <Width>19</Width>
+  <Height>19</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0117</Filename>
+  <Filesize>5268</Filesize>
+  <Width>13</Width>
+  <Height>9</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0118</Filename>
+  <Filesize>4334</Filesize>
+  <Width>12</Width>
+  <Height>9</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0119</Filename>
+  <Filesize>8922</Filesize>
+  <Width>19</Width>
+  <Height>13</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0120</Filename>
+  <Filesize>9556</Filesize>
+  <Width>19</Width>
+  <Height>13</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0121</Filename>
+  <Filesize>9896</Filesize>
+  <Width>19</Width>
+  <Height>13</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0123</Filename>
+  <Filesize>122076</Filesize>
+  <Width>80</Width>
+  <Height>60</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0125</Filename>
+  <Filesize>10606</Filesize>
+  <Width>23</Width>
+  <Height>20</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0126</Filename>
+  <Filesize>3624</Filesize>
+  <Width>12</Width>
+  <Height>9</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0127</Filename>
+  <Filesize>11804</Filesize>
+  <Width>24</Width>
+  <Height>17</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0128</Filename>
+  <Filesize>12132</Filesize>
+  <Width>24</Width>
+  <Height>17</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0129</Filename>
+  <Filesize>11356</Filesize>
+  <Width>24</Width>
+  <Height>17</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0130</Filename>
+  <Filesize>16298</Filesize>
+  <Width>27</Width>
+  <Height>24</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0131</Filename>
+  <Filesize>11764</Filesize>
+  <Width>27</Width>
+  <Height>20</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0132</Filename>
+  <Filesize>4676</Filesize>
+  <Width>10</Width>
+  <Height>8</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0133</Filename>
+  <Filesize>7242</Filesize>
+  <Width>20</Width>
+  <Height>15</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0134</Filename>
+  <Filesize>7038</Filesize>
+  <Width>20</Width>
+  <Height>15</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0135</Filename>
+  <Filesize>4780</Filesize>
+  <Width>17</Width>
+  <Height>12</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0136</Filename>
+  <Filesize>3474</Filesize>
+  <Width>17</Width>
+  <Height>12</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0137</Filename>
+  <Filesize>2680</Filesize>
+  <Width>8</Width>
+  <Height>6</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0138</Filename>
+  <Filesize>2076</Filesize>
+  <Width>8</Width>
+  <Height>6</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0139</Filename>
+  <Filesize>2724</Filesize>
+  <Width>8</Width>
+  <Height>6</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0140</Filename>
+  <Filesize>2840</Filesize>
+  <Width>8</Width>
+  <Height>6</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0141</Filename>
+  <Filesize>2320</Filesize>
+  <Width>8</Width>
+  <Height>6</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0142</Filename>
+  <Filesize>2268</Filesize>
+  <Width>8</Width>
+  <Height>6</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0143</Filename>
+  <Filesize>4290</Filesize>
+  <Width>15</Width>
+  <Height>12</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0144</Filename>
+  <Filesize>4486</Filesize>
+  <Width>15</Width>
+  <Height>12</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0145</Filename>
+  <Filesize>6064</Filesize>
+  <Width>15</Width>
+  <Height>12</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0146</Filename>
+  <Filesize>44498</Filesize>
+  <Width>57</Width>
+  <Height>46</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0148</Filename>
+  <Filesize>2444</Filesize>
+  <Width>11</Width>
+  <Height>7</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0149</Filename>
+  <Filesize>1218</Filesize>
+  <Width>8</Width>
+  <Height>6</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0150</Filename>
+  <Filesize>1944</Filesize>
+  <Width>10</Width>
+  <Height>6</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0151</Filename>
+  <Filesize>1996</Filesize>
+  <Width>10</Width>
+  <Height>7</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0152</Filename>
+  <Filesize>2344</Filesize>
+  <Width>10</Width>
+  <Height>6</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0153</Filename>
+  <Filesize>7854</Filesize>
+  <Width>21</Width>
+  <Height>12</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0155</Filename>
+  <Filesize>3584</Filesize>
+  <Width>13</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0156</Filename>
+  <Filesize>3712</Filesize>
+  <Width>13</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0161</Filename>
+  <Filesize>6848</Filesize>
+  <Width>17</Width>
+  <Height>13</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0162</Filename>
+  <Filesize>6558</Filesize>
+  <Width>17</Width>
+  <Height>13</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0163</Filename>
+  <Filesize>2428</Filesize>
+  <Width>10</Width>
+  <Height>8</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0164</Filename>
+  <Filesize>2542</Filesize>
+  <Width>10</Width>
+  <Height>7</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0165</Filename>
+  <Filesize>3968</Filesize>
+  <Width>14</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0166</Filename>
+  <Filesize>3850</Filesize>
+  <Width>14</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0167</Filename>
+  <Filesize>2400</Filesize>
+  <Width>11</Width>
+  <Height>8</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0168</Filename>
+  <Filesize>2476</Filesize>
+  <Width>11</Width>
+  <Height>8</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0169</Filename>
+  <Filesize>3158</Filesize>
+  <Width>11</Width>
+  <Height>7</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0170</Filename>
+  <Filesize>2972</Filesize>
+  <Width>11</Width>
+  <Height>7</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0200</Filename>
+  <Filesize>80504</Filesize>
+  <Width>69</Width>
+  <Height>50</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0200N</Filename>
+  <Filesize>80232</Filesize>
+  <Width>69</Width>
+  <Height>50</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0224</Filename>
+  <Filesize>32292</Filesize>
+  <Width>48</Width>
+  <Height>44</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0225</Filename>
+  <Filesize>52142</Filesize>
+  <Width>67</Width>
+  <Height>55</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0226</Filename>
+  <Filesize>58984</Filesize>
+  <Width>72</Width>
+  <Height>57</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0300</Filename>
+  <Filesize>57810</Filesize>
+  <Width>69</Width>
+  <Height>50</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0300N</Filename>
+  <Filesize>58336</Filesize>
+  <Width>69</Width>
+  <Height>50</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0304</Filename>
+  <Filesize>3004</Filesize>
+  <Width>14</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0400</Filename>
+  <Filesize>83892</Filesize>
+  <Width>80</Width>
+  <Height>60</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0401</Filename>
+  <Filesize>2692</Filesize>
+  <Width>11</Width>
+  <Height>8</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0500</Filename>
+  <Filesize>64186</Filesize>
+  <Width>80</Width>
+  <Height>60</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0501</Filename>
+  <Filesize>5374</Filesize>
+  <Width>20</Width>
+  <Height>11</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0502</Filename>
+  <Filesize>8618</Filesize>
+  <Width>20</Width>
+  <Height>15</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0503</Filename>
+  <Filesize>8150</Filesize>
+  <Width>20</Width>
+  <Height>14</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0504</Filename>
+  <Filesize>10566</Filesize>
+  <Width>25</Width>
+  <Height>16</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0505</Filename>
+  <Filesize>8118</Filesize>
+  <Width>21</Width>
+  <Height>14</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0506</Filename>
+  <Filesize>6098</Filesize>
+  <Width>22</Width>
+  <Height>16</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0507</Filename>
+  <Filesize>3018</Filesize>
+  <Width>15</Width>
+  <Height>11</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0508</Filename>
+  <Filesize>4830</Filesize>
+  <Width>23</Width>
+  <Height>14</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0509</Filename>
+  <Filesize>5302</Filesize>
+  <Width>23</Width>
+  <Height>16</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0510</Filename>
+  <Filesize>5388</Filesize>
+  <Width>23</Width>
+  <Height>16</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0511</Filename>
+  <Filesize>46808</Filesize>
+  <Width>57</Width>
+  <Height>42</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0512</Filename>
+  <Filesize>37986</Filesize>
+  <Width>44</Width>
+  <Height>37</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0513</Filename>
+  <Filesize>58188</Filesize>
+  <Width>68</Width>
+  <Height>47</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0514</Filename>
+  <Filesize>71914</Filesize>
+  <Width>80</Width>
+  <Height>55</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0515</Filename>
+  <Filesize>2256</Filesize>
+  <Width>10</Width>
+  <Height>9</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0516</Filename>
+  <Filesize>5872</Filesize>
+  <Width>20</Width>
+  <Height>16</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0600</Filename>
+  <Filesize>85206</Filesize>
+  <Width>67</Width>
+  <Height>52</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0600N</Filename>
+  <Filesize>85142</Filesize>
+  <Width>67</Width>
+  <Height>52</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0601</Filename>
+  <Filesize>4648</Filesize>
+  <Width>12</Width>
+  <Height>9</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0602</Filename>
+  <Filesize>3506</Filesize>
+  <Width>12</Width>
+  <Height>9</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0603</Filename>
+  <Filesize>2988</Filesize>
+  <Width>12</Width>
+  <Height>9</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0606</Filename>
+  <Filesize>2568</Filesize>
+  <Width>14</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0607</Filename>
+  <Filesize>16492</Filesize>
+  <Width>30</Width>
+  <Height>23</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0608</Filename>
+  <Filesize>3476</Filesize>
+  <Width>13</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0609</Filename>
+  <Filesize>5644</Filesize>
+  <Width>22</Width>
+  <Height>15</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0611</Filename>
+  <Filesize>3298</Filesize>
+  <Width>14</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0612</Filename>
+  <Filesize>14450</Filesize>
+  <Width>22</Width>
+  <Height>17</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0613</Filename>
+  <Filesize>11722</Filesize>
+  <Width>22</Width>
+  <Height>17</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0614</Filename>
+  <Filesize>11476</Filesize>
+  <Width>22</Width>
+  <Height>17</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0615</Filename>
+  <Filesize>13932</Filesize>
+  <Width>23</Width>
+  <Height>17</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0616</Filename>
+  <Filesize>12052</Filesize>
+  <Width>23</Width>
+  <Height>17</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0621</Filename>
+  <Filesize>1836</Filesize>
+  <Width>8</Width>
+  <Height>6</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0700</Filename>
+  <Filesize>107822</Filesize>
+  <Width>69</Width>
+  <Height>52</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0700N</Filename>
+  <Filesize>107540</Filesize>
+  <Width>69</Width>
+  <Height>52</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0702</Filename>
+  <Filesize>4148</Filesize>
+  <Width>13</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0703</Filename>
+  <Filesize>4998</Filesize>
+  <Width>18</Width>
+  <Height>13</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0704</Filename>
+  <Filesize>5270</Filesize>
+  <Width>18</Width>
+  <Height>13</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0705</Filename>
+  <Filesize>9392</Filesize>
+  <Width>23</Width>
+  <Height>17</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0706</Filename>
+  <Filesize>8024</Filesize>
+  <Width>19</Width>
+  <Height>15</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0719</Filename>
+  <Filesize>6848</Filesize>
+  <Width>17</Width>
+  <Height>13</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0720</Filename>
+  <Filesize>5492</Filesize>
+  <Width>17</Width>
+  <Height>13</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0724</Filename>
+  <Filesize>6322</Filesize>
+  <Width>15</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0726</Filename>
+  <Filesize>2372</Filesize>
+  <Width>8</Width>
+  <Height>7</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0800</Filename>
+  <Filesize>76380</Filesize>
+  <Width>69</Width>
+  <Height>52</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0800N</Filename>
+  <Filesize>76324</Filesize>
+  <Width>69</Width>
+  <Height>52</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0807</Filename>
+  <Filesize>5258</Filesize>
+  <Width>15</Width>
+  <Height>12</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0808</Filename>
+  <Filesize>4506</Filesize>
+  <Width>15</Width>
+  <Height>12</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0809</Filename>
+  <Filesize>4106</Filesize>
+  <Width>14</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0900</Filename>
+  <Filesize>94702</Filesize>
+  <Width>80</Width>
+  <Height>60</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR0901</Filename>
+  <Filesize>3594</Filesize>
+  <Width>12</Width>
+  <Height>9</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR1000</Filename>
+  <Filesize>48268</Filesize>
+  <Width>49</Width>
+  <Height>28</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR1001</Filename>
+  <Filesize>6558</Filesize>
+  <Width>17</Width>
+  <Height>13</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR1002</Filename>
+  <Filesize>4064</Filesize>
+  <Width>20</Width>
+  <Height>15</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR1003</Filename>
+  <Filesize>4106</Filesize>
+  <Width>14</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR1004</Filename>
+  <Filesize>2542</Filesize>
+  <Width>10</Width>
+  <Height>7</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR1005</Filename>
+  <Filesize>2972</Filesize>
+  <Width>11</Width>
+  <Height>7</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR1008</Filename>
+  <Filesize>4442</Filesize>
+  <Width>20</Width>
+  <Height>15</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR1009</Filename>
+  <Filesize>18008</Filesize>
+  <Width>39</Width>
+  <Height>30</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR1100</Filename>
+  <Filesize>80190</Filesize>
+  <Width>67</Width>
+  <Height>54</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR1100N</Filename>
+  <Filesize>80076</Filesize>
+  <Width>67</Width>
+  <Height>54</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR1101</Filename>
+  <Filesize>8934</Filesize>
+  <Width>18</Width>
+  <Height>14</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR1102</Filename>
+  <Filesize>8162</Filesize>
+  <Width>18</Width>
+  <Height>14</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR1200</Filename>
+  <Filesize>78150</Filesize>
+  <Width>69</Width>
+  <Height>54</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR1200N</Filename>
+  <Filesize>78696</Filesize>
+  <Width>69</Width>
+  <Height>54</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR1207</Filename>
+  <Filesize>13172</Filesize>
+  <Width>28</Width>
+  <Height>22</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR1208</Filename>
+  <Filesize>9498</Filesize>
+  <Width>22</Width>
+  <Height>18</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR1215</Filename>
+  <Filesize>4972</Filesize>
+  <Width>17</Width>
+  <Height>13</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR1300</Filename>
+  <Filesize>70780</Filesize>
+  <Width>69</Width>
+  <Height>54</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR1300N</Filename>
+  <Filesize>70922</Filesize>
+  <Width>69</Width>
+  <Height>54</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR1302</Filename>
+  <Filesize>4106</Filesize>
+  <Width>14</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR1400</Filename>
+  <Filesize>179566</Filesize>
+  <Width>80</Width>
+  <Height>60</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR1401</Filename>
+  <Filesize>22632</Filesize>
+  <Width>49</Width>
+  <Height>23</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR1402</Filename>
+  <Filesize>3594</Filesize>
+  <Width>12</Width>
+  <Height>9</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR1403</Filename>
+  <Filesize>2506</Filesize>
+  <Width>12</Width>
+  <Height>8</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR1404</Filename>
+  <Filesize>2692</Filesize>
+  <Width>11</Width>
+  <Height>8</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR1500</Filename>
+  <Filesize>142064</Filesize>
+  <Width>80</Width>
+  <Height>60</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR1501</Filename>
+  <Filesize>3040</Filesize>
+  <Width>15</Width>
+  <Height>11</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR1502</Filename>
+  <Filesize>2818</Filesize>
+  <Width>14</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR1503</Filename>
+  <Filesize>2710</Filesize>
+  <Width>15</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR1504</Filename>
+  <Filesize>2346</Filesize>
+  <Width>12</Width>
+  <Height>9</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR1505</Filename>
+  <Filesize>2062</Filesize>
+  <Width>12</Width>
+  <Height>8</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR1600</Filename>
+  <Filesize>315540</Filesize>
+  <Width>80</Width>
+  <Height>60</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR1601</Filename>
+  <Filesize>1500</Filesize>
+  <Width>8</Width>
+  <Height>6</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR1602</Filename>
+  <Filesize>1424</Filesize>
+  <Width>8</Width>
+  <Height>6</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR1603</Filename>
+  <Filesize>1742</Filesize>
+  <Width>10</Width>
+  <Height>8</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR1700</Filename>
+  <Filesize>296040</Filesize>
+  <Width>80</Width>
+  <Height>60</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR1800</Filename>
+  <Filesize>384936</Filesize>
+  <Width>80</Width>
+  <Height>60</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR1801</Filename>
+  <Filesize>26952</Filesize>
+  <Width>38</Width>
+  <Height>33</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR1802</Filename>
+  <Filesize>52352</Filesize>
+  <Width>55</Width>
+  <Height>51</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR1803</Filename>
+  <Filesize>15892</Filesize>
+  <Width>28</Width>
+  <Height>27</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR1804</Filename>
+  <Filesize>19912</Filesize>
+  <Width>34</Width>
+  <Height>30</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR1805</Filename>
+  <Filesize>1848</Filesize>
+  <Width>9</Width>
+  <Height>6</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR1806</Filename>
+  <Filesize>2430</Filesize>
+  <Width>9</Width>
+  <Height>6</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR1807</Filename>
+  <Filesize>1204</Filesize>
+  <Width>8</Width>
+  <Height>6</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR1808</Filename>
+  <Filesize>1264</Filesize>
+  <Width>10</Width>
+  <Height>7</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR1809</Filename>
+  <Filesize>1432</Filesize>
+  <Width>10</Width>
+  <Height>7</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR1900</Filename>
+  <Filesize>245590</Filesize>
+  <Width>80</Width>
+  <Height>60</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR1901</Filename>
+  <Filesize>3816</Filesize>
+  <Width>12</Width>
+  <Height>9</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR1902</Filename>
+  <Filesize>2734</Filesize>
+  <Width>10</Width>
+  <Height>8</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR1903</Filename>
+  <Filesize>3672</Filesize>
+  <Width>19</Width>
+  <Height>9</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR2000</Filename>
+  <Filesize>154910</Filesize>
+  <Width>80</Width>
+  <Height>60</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR2001</Filename>
+  <Filesize>2650</Filesize>
+  <Width>9</Width>
+  <Height>8</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR2002</Filename>
+  <Filesize>2450</Filesize>
+  <Width>11</Width>
+  <Height>9</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR2004</Filename>
+  <Filesize>3038</Filesize>
+  <Width>11</Width>
+  <Height>9</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR2006</Filename>
+  <Filesize>2332</Filesize>
+  <Width>9</Width>
+  <Height>7</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR2008</Filename>
+  <Filesize>1360</Filesize>
+  <Width>8</Width>
+  <Height>6</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR2012</Filename>
+  <Filesize>21518</Filesize>
+  <Width>49</Width>
+  <Height>23</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR2100</Filename>
+  <Filesize>139378</Filesize>
+  <Width>80</Width>
+  <Height>60</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR2101</Filename>
+  <Filesize>3824</Filesize>
+  <Width>17</Width>
+  <Height>12</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR2200</Filename>
+  <Filesize>345400</Filesize>
+  <Width>80</Width>
+  <Height>60</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR2215</Filename>
+  <Filesize>2986</Filesize>
+  <Width>11</Width>
+  <Height>8</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR2300</Filename>
+  <Filesize>174020</Filesize>
+  <Width>80</Width>
+  <Height>60</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR2301</Filename>
+  <Filesize>11918</Filesize>
+  <Width>25</Width>
+  <Height>18</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR2302</Filename>
+  <Filesize>11126</Filesize>
+  <Width>25</Width>
+  <Height>18</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR2303</Filename>
+  <Filesize>11054</Filesize>
+  <Width>25</Width>
+  <Height>18</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR2304</Filename>
+  <Filesize>6982</Filesize>
+  <Width>13</Width>
+  <Height>9</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR2305</Filename>
+  <Filesize>3594</Filesize>
+  <Width>12</Width>
+  <Height>9</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR2306</Filename>
+  <Filesize>3138</Filesize>
+  <Width>12</Width>
+  <Height>9</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR2400</Filename>
+  <Filesize>165196</Filesize>
+  <Width>80</Width>
+  <Height>60</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR2600</Filename>
+  <Filesize>123542</Filesize>
+  <Width>80</Width>
+  <Height>60</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR2602</Filename>
+  <Filesize>2210</Filesize>
+  <Width>10</Width>
+  <Height>8</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR2605</Filename>
+  <Filesize>4368</Filesize>
+  <Width>14</Width>
+  <Height>11</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR2606</Filename>
+  <Filesize>2592</Filesize>
+  <Width>10</Width>
+  <Height>8</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR2607</Filename>
+  <Filesize>2024</Filesize>
+  <Width>10</Width>
+  <Height>6</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR2608</Filename>
+  <Filesize>23886</Filesize>
+  <Width>37</Width>
+  <Height>26</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR2609</Filename>
+  <Filesize>26418</Filesize>
+  <Width>37</Width>
+  <Height>27</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR2610</Filename>
+  <Filesize>28438</Filesize>
+  <Width>36</Width>
+  <Height>26</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR2611</Filename>
+  <Filesize>23632</Filesize>
+  <Width>37</Width>
+  <Height>27</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR2612</Filename>
+  <Filesize>13682</Filesize>
+  <Width>29</Width>
+  <Height>21</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR2613</Filename>
+  <Filesize>1916</Filesize>
+  <Width>8</Width>
+  <Height>6</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR2614</Filename>
+  <Filesize>19590</Filesize>
+  <Width>29</Width>
+  <Height>21</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR2615</Filename>
+  <Filesize>40886</Filesize>
+  <Width>66</Width>
+  <Height>36</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR2616</Filename>
+  <Filesize>5218</Filesize>
+  <Width>15</Width>
+  <Height>11</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR2617</Filename>
+  <Filesize>4160</Filesize>
+  <Width>12</Width>
+  <Height>8</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR2618</Filename>
+  <Filesize>3614</Filesize>
+  <Width>12</Width>
+  <Height>8</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR2619</Filename>
+  <Filesize>51938</Filesize>
+  <Width>75</Width>
+  <Height>38</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR2631</Filename>
+  <Filesize>3734</Filesize>
+  <Width>12</Width>
+  <Height>8</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR2643</Filename>
+  <Filesize>13172</Filesize>
+  <Width>28</Width>
+  <Height>22</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR2700</Filename>
+  <Filesize>200974</Filesize>
+  <Width>80</Width>
+  <Height>60</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR2800</Filename>
+  <Filesize>168552</Filesize>
+  <Width>80</Width>
+  <Height>60</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR2900</Filename>
+  <Filesize>312436</Filesize>
+  <Width>80</Width>
+  <Height>60</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR3000</Filename>
+  <Filesize>187938</Filesize>
+  <Width>80</Width>
+  <Height>60</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR3100</Filename>
+  <Filesize>111216</Filesize>
+  <Width>80</Width>
+  <Height>60</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR3200</Filename>
+  <Filesize>247092</Filesize>
+  <Width>80</Width>
+  <Height>60</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR3201</Filename>
+  <Filesize>2986</Filesize>
+  <Width>11</Width>
+  <Height>8</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR3202</Filename>
+  <Filesize>6086</Filesize>
+  <Width>14</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR3300</Filename>
+  <Filesize>241566</Filesize>
+  <Width>80</Width>
+  <Height>60</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR3301</Filename>
+  <Filesize>11474</Filesize>
+  <Width>18</Width>
+  <Height>13</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR3302</Filename>
+  <Filesize>3594</Filesize>
+  <Width>12</Width>
+  <Height>9</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR3303</Filename>
+  <Filesize>4726</Filesize>
+  <Width>14</Width>
+  <Height>11</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR3304</Filename>
+  <Filesize>10434</Filesize>
+  <Width>19</Width>
+  <Height>19</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR3305</Filename>
+  <Filesize>4294</Filesize>
+  <Width>13</Width>
+  <Height>9</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR3306</Filename>
+  <Filesize>3710</Filesize>
+  <Width>12</Width>
+  <Height>9</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR3307</Filename>
+  <Filesize>3336</Filesize>
+  <Width>13</Width>
+  <Height>8</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR3308</Filename>
+  <Filesize>3042</Filesize>
+  <Width>13</Width>
+  <Height>7</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR3309</Filename>
+  <Filesize>2400</Filesize>
+  <Width>11</Width>
+  <Height>8</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR3310</Filename>
+  <Filesize>2476</Filesize>
+  <Width>11</Width>
+  <Height>8</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR3313</Filename>
+  <Filesize>3158</Filesize>
+  <Width>11</Width>
+  <Height>7</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR3314</Filename>
+  <Filesize>2972</Filesize>
+  <Width>11</Width>
+  <Height>7</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR3316</Filename>
+  <Filesize>2506</Filesize>
+  <Width>12</Width>
+  <Height>8</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR3317</Filename>
+  <Filesize>2692</Filesize>
+  <Width>11</Width>
+  <Height>8</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR3320</Filename>
+  <Filesize>6418</Filesize>
+  <Width>16</Width>
+  <Height>11</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR3321</Filename>
+  <Filesize>7958</Filesize>
+  <Width>16</Width>
+  <Height>11</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR3327</Filename>
+  <Filesize>3760</Filesize>
+  <Width>13</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR3328</Filename>
+  <Filesize>3712</Filesize>
+  <Width>13</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR3339</Filename>
+  <Filesize>2428</Filesize>
+  <Width>10</Width>
+  <Height>8</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR3340</Filename>
+  <Filesize>2542</Filesize>
+  <Width>10</Width>
+  <Height>7</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR3351</Filename>
+  <Filesize>7366</Filesize>
+  <Width>19</Width>
+  <Height>14</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR3352</Filename>
+  <Filesize>8100</Filesize>
+  <Width>18</Width>
+  <Height>14</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR3353</Filename>
+  <Filesize>3004</Filesize>
+  <Width>14</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR3357</Filename>
+  <Filesize>5392</Filesize>
+  <Width>14</Width>
+  <Height>11</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR3400</Filename>
+  <Filesize>79502</Filesize>
+  <Width>80</Width>
+  <Height>60</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR3401</Filename>
+  <Filesize>2478</Filesize>
+  <Width>12</Width>
+  <Height>9</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR3402</Filename>
+  <Filesize>4472</Filesize>
+  <Width>18</Width>
+  <Height>13</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR3500</Filename>
+  <Filesize>149156</Filesize>
+  <Width>80</Width>
+  <Height>60</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR3600</Filename>
+  <Filesize>220820</Filesize>
+  <Width>80</Width>
+  <Height>60</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR3601</Filename>
+  <Filesize>6286</Filesize>
+  <Width>22</Width>
+  <Height>16</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR3700</Filename>
+  <Filesize>169724</Filesize>
+  <Width>80</Width>
+  <Height>60</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR3800</Filename>
+  <Filesize>206444</Filesize>
+  <Width>80</Width>
+  <Height>60</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR3802</Filename>
+  <Filesize>1742</Filesize>
+  <Width>10</Width>
+  <Height>8</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR3900</Filename>
+  <Filesize>92982</Filesize>
+  <Width>80</Width>
+  <Height>60</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR3901</Filename>
+  <Filesize>17976</Filesize>
+  <Width>37</Width>
+  <Height>26</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR4000</Filename>
+  <Filesize>158190</Filesize>
+  <Width>80</Width>
+  <Height>60</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR4001</Filename>
+  <Filesize>2178</Filesize>
+  <Width>10</Width>
+  <Height>7</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR4002</Filename>
+  <Filesize>3190</Filesize>
+  <Width>10</Width>
+  <Height>7</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR4003</Filename>
+  <Filesize>5034</Filesize>
+  <Width>13</Width>
+  <Height>9</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR4004</Filename>
+  <Filesize>4500</Filesize>
+  <Width>12</Width>
+  <Height>9</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR4006</Filename>
+  <Filesize>3100</Filesize>
+  <Width>10</Width>
+  <Height>7</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR4100</Filename>
+  <Filesize>221156</Filesize>
+  <Width>80</Width>
+  <Height>60</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR4101</Filename>
+  <Filesize>5476</Filesize>
+  <Width>23</Width>
+  <Height>11</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR4200</Filename>
+  <Filesize>203522</Filesize>
+  <Width>80</Width>
+  <Height>60</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR4201</Filename>
+  <Filesize>2692</Filesize>
+  <Width>11</Width>
+  <Height>8</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR4300</Filename>
+  <Filesize>149838</Filesize>
+  <Width>80</Width>
+  <Height>60</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR4400</Filename>
+  <Filesize>120430</Filesize>
+  <Width>80</Width>
+  <Height>60</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR4401</Filename>
+  <Filesize>1742</Filesize>
+  <Width>10</Width>
+  <Height>8</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR4500</Filename>
+  <Filesize>100400</Filesize>
+  <Width>80</Width>
+  <Height>60</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR4501</Filename>
+  <Filesize>6698</Filesize>
+  <Width>22</Width>
+  <Height>14</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR4600</Filename>
+  <Filesize>155236</Filesize>
+  <Width>80</Width>
+  <Height>60</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR4700</Filename>
+  <Filesize>96518</Filesize>
+  <Width>80</Width>
+  <Height>60</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR4701</Filename>
+  <Filesize>1740</Filesize>
+  <Width>10</Width>
+  <Height>8</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR4800</Filename>
+  <Filesize>201894</Filesize>
+  <Width>80</Width>
+  <Height>60</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR4801</Filename>
+  <Filesize>4170</Filesize>
+  <Width>15</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR4802</Filename>
+  <Filesize>4238</Filesize>
+  <Width>14</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR4803</Filename>
+  <Filesize>1878</Filesize>
+  <Width>10</Width>
+  <Height>8</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR4804</Filename>
+  <Filesize>6418</Filesize>
+  <Width>16</Width>
+  <Height>11</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR4805</Filename>
+  <Filesize>7884</Filesize>
+  <Width>16</Width>
+  <Height>11</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR4806</Filename>
+  <Filesize>2506</Filesize>
+  <Width>12</Width>
+  <Height>8</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR4807</Filename>
+  <Filesize>3594</Filesize>
+  <Width>12</Width>
+  <Height>9</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR4808</Filename>
+  <Filesize>2692</Filesize>
+  <Width>11</Width>
+  <Height>8</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR4809</Filename>
+  <Filesize>4990</Filesize>
+  <Width>14</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR4810</Filename>
+  <Filesize>3654</Filesize>
+  <Width>11</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR4900</Filename>
+  <Filesize>189922</Filesize>
+  <Width>80</Width>
+  <Height>60</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR4901</Filename>
+  <Filesize>4838</Filesize>
+  <Width>15</Width>
+  <Height>11</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR4902</Filename>
+  <Filesize>2372</Filesize>
+  <Width>8</Width>
+  <Height>7</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR4903</Filename>
+  <Filesize>6322</Filesize>
+  <Width>15</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR4905</Filename>
+  <Filesize>2098</Filesize>
+  <Width>8</Width>
+  <Height>6</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR4906</Filename>
+  <Filesize>1748</Filesize>
+  <Width>8</Width>
+  <Height>6</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR5000</Filename>
+  <Filesize>92900</Filesize>
+  <Width>80</Width>
+  <Height>60</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR5001</Filename>
+  <Filesize>3600</Filesize>
+  <Width>16</Width>
+  <Height>12</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR5100</Filename>
+  <Filesize>97262</Filesize>
+  <Width>80</Width>
+  <Height>60</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR5101</Filename>
+  <Filesize>2696</Filesize>
+  <Width>12</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR5102</Filename>
+  <Filesize>1742</Filesize>
+  <Width>10</Width>
+  <Height>8</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR5103</Filename>
+  <Filesize>3728</Filesize>
+  <Width>19</Width>
+  <Height>9</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR5200</Filename>
+  <Filesize>124354</Filesize>
+  <Width>80</Width>
+  <Height>60</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR5201</Filename>
+  <Filesize>20104</Filesize>
+  <Width>37</Width>
+  <Height>29</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR5202</Filename>
+  <Filesize>1742</Filesize>
+  <Width>10</Width>
+  <Height>8</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR5300</Filename>
+  <Filesize>237694</Filesize>
+  <Width>80</Width>
+  <Height>60</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR5400</Filename>
+  <Filesize>158316</Filesize>
+  <Width>80</Width>
+  <Height>60</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR5401</Filename>
+  <Filesize>30772</Filesize>
+  <Width>48</Width>
+  <Height>34</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR5402</Filename>
+  <Filesize>60776</Filesize>
+  <Width>65</Width>
+  <Height>46</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR5403</Filename>
+  <Filesize>53402</Filesize>
+  <Width>62</Width>
+  <Height>47</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR5404</Filename>
+  <Filesize>22244</Filesize>
+  <Width>50</Width>
+  <Height>35</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR5405</Filename>
+  <Filesize>10464</Filesize>
+  <Width>18</Width>
+  <Height>15</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR5406</Filename>
+  <Filesize>2852</Filesize>
+  <Width>10</Width>
+  <Height>8</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR5500</Filename>
+  <Filesize>104562</Filesize>
+  <Width>80</Width>
+  <Height>60</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR5506</Filename>
+  <Filesize>21296</Filesize>
+  <Width>30</Width>
+  <Height>34</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR5600</Filename>
+  <Filesize>3904</Filesize>
+  <Width>20</Width>
+  <Height>15</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR5700</Filename>
+  <Filesize>4644</Filesize>
+  <Width>20</Width>
+  <Height>15</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR5800</Filename>
+  <Filesize>5640</Filesize>
+  <Width>20</Width>
+  <Height>15</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR5900</Filename>
+  <Filesize>4784</Filesize>
+  <Width>20</Width>
+  <Height>15</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR6000</Filename>
+  <Filesize>10714</Filesize>
+  <Width>20</Width>
+  <Height>15</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR6100</Filename>
+  <Filesize>4784</Filesize>
+  <Width>20</Width>
+  <Height>15</Height>
+</AreaData>
+<AreaData>
+  <Game>BG1 TotS</Game>
+  <Filename>AR7200</Filename>
+  <Filesize>774</Filesize>
+  <Width>8</Width>
+  <Height>6</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0011</Filename>
+  <Filesize>37986</Filesize>
+  <Width>54</Width>
+  <Height>42</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0012</Filename>
+  <Filesize>19942</Filesize>
+  <Width>37</Width>
+  <Height>26</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0013</Filename>
+  <Filesize>22184</Filesize>
+  <Width>37</Width>
+  <Height>27</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0014</Filename>
+  <Filesize>21572</Filesize>
+  <Width>37</Width>
+  <Height>27</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0015</Filename>
+  <Filesize>12960</Filesize>
+  <Width>22</Width>
+  <Height>16</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0016</Filename>
+  <Filesize>12238</Filesize>
+  <Width>22</Width>
+  <Height>16</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0017</Filename>
+  <Filesize>10898</Filesize>
+  <Width>22</Width>
+  <Height>16</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0018</Filename>
+  <Filesize>11674</Filesize>
+  <Width>25</Width>
+  <Height>18</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0020</Filename>
+  <Filesize>7068</Filesize>
+  <Width>20</Width>
+  <Height>15</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0020N</Filename>
+  <Filesize>7078</Filesize>
+  <Width>20</Width>
+  <Height>15</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0021</Filename>
+  <Filesize>4658</Filesize>
+  <Width>15</Width>
+  <Height>12</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0022</Filename>
+  <Filesize>3482</Filesize>
+  <Width>16</Width>
+  <Height>12</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0041</Filename>
+  <Filesize>5616</Filesize>
+  <Width>20</Width>
+  <Height>15</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0041N</Filename>
+  <Filesize>5616</Filesize>
+  <Width>20</Width>
+  <Height>15</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0042</Filename>
+  <Filesize>8680</Filesize>
+  <Width>20</Width>
+  <Height>15</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0043</Filename>
+  <Filesize>5816</Filesize>
+  <Width>20</Width>
+  <Height>15</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0044</Filename>
+  <Filesize>9782</Filesize>
+  <Width>20</Width>
+  <Height>15</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0045</Filename>
+  <Filesize>5674</Filesize>
+  <Width>20</Width>
+  <Height>15</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0045N</Filename>
+  <Filesize>5674</Filesize>
+  <Width>20</Width>
+  <Height>15</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0046</Filename>
+  <Filesize>7082</Filesize>
+  <Width>20</Width>
+  <Height>15</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0046N</Filename>
+  <Filesize>7082</Filesize>
+  <Width>20</Width>
+  <Height>15</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0069</Filename>
+  <Filesize>13558</Filesize>
+  <Width>25</Width>
+  <Height>21</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0070</Filename>
+  <Filesize>17338</Filesize>
+  <Width>31</Width>
+  <Height>25</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0071</Filename>
+  <Filesize>25506</Filesize>
+  <Width>35</Width>
+  <Height>28</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0072</Filename>
+  <Filesize>25586</Filesize>
+  <Width>40</Width>
+  <Height>30</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0082</Filename>
+  <Filesize>1900</Filesize>
+  <Width>13</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0201</Filename>
+  <Filesize>16850</Filesize>
+  <Width>35</Width>
+  <Height>31</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0202</Filename>
+  <Filesize>36216</Filesize>
+  <Width>61</Width>
+  <Height>39</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0203</Filename>
+  <Filesize>4154</Filesize>
+  <Width>19</Width>
+  <Height>14</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0204</Filename>
+  <Filesize>48370</Filesize>
+  <Width>65</Width>
+  <Height>55</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0205</Filename>
+  <Filesize>40640</Filesize>
+  <Width>53</Width>
+  <Height>40</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0206</Filename>
+  <Filesize>10962</Filesize>
+  <Width>26</Width>
+  <Height>24</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0300</Filename>
+  <Filesize>97044</Filesize>
+  <Width>80</Width>
+  <Height>60</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0300N</Filename>
+  <Filesize>97142</Filesize>
+  <Width>80</Width>
+  <Height>60</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0301</Filename>
+  <Filesize>14264</Filesize>
+  <Width>23</Width>
+  <Height>16</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0302</Filename>
+  <Filesize>6766</Filesize>
+  <Width>20</Width>
+  <Height>16</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0303</Filename>
+  <Filesize>7982</Filesize>
+  <Width>20</Width>
+  <Height>16</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0304</Filename>
+  <Filesize>8394</Filesize>
+  <Width>20</Width>
+  <Height>16</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0305</Filename>
+  <Filesize>8424</Filesize>
+  <Width>26</Width>
+  <Height>17</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0306</Filename>
+  <Filesize>8502</Filesize>
+  <Width>21</Width>
+  <Height>17</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0307</Filename>
+  <Filesize>68258</Filesize>
+  <Width>80</Width>
+  <Height>50</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0308</Filename>
+  <Filesize>13160</Filesize>
+  <Width>28</Width>
+  <Height>22</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0309</Filename>
+  <Filesize>19244</Filesize>
+  <Width>30</Width>
+  <Height>22</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0310</Filename>
+  <Filesize>4932</Filesize>
+  <Width>20</Width>
+  <Height>15</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0311</Filename>
+  <Filesize>2878</Filesize>
+  <Width>13</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0312</Filename>
+  <Filesize>2996</Filesize>
+  <Width>13</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0313</Filename>
+  <Filesize>4658</Filesize>
+  <Width>15</Width>
+  <Height>12</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0314</Filename>
+  <Filesize>4380</Filesize>
+  <Width>16</Width>
+  <Height>13</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0315</Filename>
+  <Filesize>2726</Filesize>
+  <Width>13</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0316</Filename>
+  <Filesize>4406</Filesize>
+  <Width>16</Width>
+  <Height>13</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0317</Filename>
+  <Filesize>4654</Filesize>
+  <Width>16</Width>
+  <Height>13</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0318</Filename>
+  <Filesize>3098</Filesize>
+  <Width>15</Width>
+  <Height>12</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0319</Filename>
+  <Filesize>3056</Filesize>
+  <Width>13</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0325</Filename>
+  <Filesize>2238</Filesize>
+  <Width>13</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0330</Filename>
+  <Filesize>3446</Filesize>
+  <Width>14</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0331</Filename>
+  <Filesize>3870</Filesize>
+  <Width>18</Width>
+  <Height>15</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0332</Filename>
+  <Filesize>3068</Filesize>
+  <Width>14</Width>
+  <Height>11</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0334</Filename>
+  <Filesize>3144</Filesize>
+  <Width>15</Width>
+  <Height>12</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0335</Filename>
+  <Filesize>2996</Filesize>
+  <Width>13</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0400</Filename>
+  <Filesize>52654</Filesize>
+  <Width>60</Width>
+  <Height>48</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0400N</Filename>
+  <Filesize>52720</Filesize>
+  <Width>60</Width>
+  <Height>48</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0401</Filename>
+  <Filesize>5012</Filesize>
+  <Width>13</Width>
+  <Height>11</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0402</Filename>
+  <Filesize>3902</Filesize>
+  <Width>14</Width>
+  <Height>11</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0403</Filename>
+  <Filesize>3934</Filesize>
+  <Width>14</Width>
+  <Height>11</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0404</Filename>
+  <Filesize>34486</Filesize>
+  <Width>51</Width>
+  <Height>47</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0405</Filename>
+  <Filesize>25708</Filesize>
+  <Width>44</Width>
+  <Height>33</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0406</Filename>
+  <Filesize>53382</Filesize>
+  <Width>61</Width>
+  <Height>36</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0407</Filename>
+  <Filesize>2878</Filesize>
+  <Width>13</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0408</Filename>
+  <Filesize>2074</Filesize>
+  <Width>13</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0409</Filename>
+  <Filesize>2878</Filesize>
+  <Width>13</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0410</Filename>
+  <Filesize>8236</Filesize>
+  <Width>23</Width>
+  <Height>18</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0411</Filename>
+  <Filesize>51596</Filesize>
+  <Width>58</Width>
+  <Height>51</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0412</Filename>
+  <Filesize>20314</Filesize>
+  <Width>40</Width>
+  <Height>30</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0413</Filename>
+  <Filesize>8206</Filesize>
+  <Width>27</Width>
+  <Height>22</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0414</Filename>
+  <Filesize>61338</Filesize>
+  <Width>70</Width>
+  <Height>60</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0415</Filename>
+  <Filesize>2878</Filesize>
+  <Width>13</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0416</Filename>
+  <Filesize>2656</Filesize>
+  <Width>13</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0417</Filename>
+  <Filesize>3026</Filesize>
+  <Width>13</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0418</Filename>
+  <Filesize>6338</Filesize>
+  <Width>21</Width>
+  <Height>14</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0420</Filename>
+  <Filesize>2502</Filesize>
+  <Width>15</Width>
+  <Height>12</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0500</Filename>
+  <Filesize>86942</Filesize>
+  <Width>80</Width>
+  <Height>60</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0500N</Filename>
+  <Filesize>87036</Filesize>
+  <Width>80</Width>
+  <Height>60</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0501</Filename>
+  <Filesize>3446</Filesize>
+  <Width>14</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0502</Filename>
+  <Filesize>3754</Filesize>
+  <Width>14</Width>
+  <Height>13</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0503</Filename>
+  <Filesize>5272</Filesize>
+  <Width>17</Width>
+  <Height>14</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0504</Filename>
+  <Filesize>27736</Filesize>
+  <Width>40</Width>
+  <Height>30</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0505</Filename>
+  <Filesize>27480</Filesize>
+  <Width>40</Width>
+  <Height>30</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0506</Filename>
+  <Filesize>4456</Filesize>
+  <Width>17</Width>
+  <Height>13</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0507</Filename>
+  <Filesize>2238</Filesize>
+  <Width>13</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0508</Filename>
+  <Filesize>2656</Filesize>
+  <Width>13</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0509</Filename>
+  <Filesize>6110</Filesize>
+  <Width>18</Width>
+  <Height>14</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0510</Filename>
+  <Filesize>15960</Filesize>
+  <Width>32</Width>
+  <Height>22</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0511</Filename>
+  <Filesize>11210</Filesize>
+  <Width>27</Width>
+  <Height>21</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0512</Filename>
+  <Filesize>4238</Filesize>
+  <Width>14</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0513</Filename>
+  <Filesize>5990</Filesize>
+  <Width>20</Width>
+  <Height>15</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0514</Filename>
+  <Filesize>3482</Filesize>
+  <Width>16</Width>
+  <Height>12</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0515</Filename>
+  <Filesize>4200</Filesize>
+  <Width>16</Width>
+  <Height>12</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0516</Filename>
+  <Filesize>41384</Filesize>
+  <Width>61</Width>
+  <Height>35</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0517</Filename>
+  <Filesize>4434</Filesize>
+  <Width>13</Width>
+  <Height>15</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0526</Filename>
+  <Filesize>3870</Filesize>
+  <Width>18</Width>
+  <Height>15</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0527</Filename>
+  <Filesize>2726</Filesize>
+  <Width>13</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0528</Filename>
+  <Filesize>2996</Filesize>
+  <Width>13</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0529</Filename>
+  <Filesize>4624</Filesize>
+  <Width>15</Width>
+  <Height>12</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0530</Filename>
+  <Filesize>3098</Filesize>
+  <Width>15</Width>
+  <Height>12</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0531</Filename>
+  <Filesize>2176</Filesize>
+  <Width>13</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0600</Filename>
+  <Filesize>26266</Filesize>
+  <Width>48</Width>
+  <Height>40</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0601</Filename>
+  <Filesize>18072</Filesize>
+  <Width>40</Width>
+  <Height>30</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0602</Filename>
+  <Filesize>91202</Filesize>
+  <Width>77</Width>
+  <Height>56</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0603</Filename>
+  <Filesize>54640</Filesize>
+  <Width>59</Width>
+  <Height>50</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0604</Filename>
+  <Filesize>8940</Filesize>
+  <Width>23</Width>
+  <Height>19</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0605</Filename>
+  <Filesize>6294</Filesize>
+  <Width>20</Width>
+  <Height>16</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0606</Filename>
+  <Filesize>2904</Filesize>
+  <Width>14</Width>
+  <Height>11</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0607</Filename>
+  <Filesize>6322</Filesize>
+  <Width>15</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0700</Filename>
+  <Filesize>106902</Filesize>
+  <Width>80</Width>
+  <Height>60</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0700N</Filename>
+  <Filesize>106774</Filesize>
+  <Width>80</Width>
+  <Height>60</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0701</Filename>
+  <Filesize>36450</Filesize>
+  <Width>51</Width>
+  <Height>44</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0702</Filename>
+  <Filesize>8862</Filesize>
+  <Width>20</Width>
+  <Height>16</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0703</Filename>
+  <Filesize>2074</Filesize>
+  <Width>13</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0704</Filename>
+  <Filesize>9706</Filesize>
+  <Width>20</Width>
+  <Height>15</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0705</Filename>
+  <Filesize>10566</Filesize>
+  <Width>25</Width>
+  <Height>16</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0706</Filename>
+  <Filesize>3144</Filesize>
+  <Width>15</Width>
+  <Height>12</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0707</Filename>
+  <Filesize>2936</Filesize>
+  <Width>14</Width>
+  <Height>11</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0708</Filename>
+  <Filesize>2176</Filesize>
+  <Width>13</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0709</Filename>
+  <Filesize>8288</Filesize>
+  <Width>20</Width>
+  <Height>15</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0710</Filename>
+  <Filesize>2726</Filesize>
+  <Width>13</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0711</Filename>
+  <Filesize>18156</Filesize>
+  <Width>50</Width>
+  <Height>22</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0712</Filename>
+  <Filesize>3482</Filesize>
+  <Width>16</Width>
+  <Height>12</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0713</Filename>
+  <Filesize>4624</Filesize>
+  <Width>15</Width>
+  <Height>12</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0714</Filename>
+  <Filesize>4084</Filesize>
+  <Width>18</Width>
+  <Height>18</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0800</Filename>
+  <Filesize>37720</Filesize>
+  <Width>45</Width>
+  <Height>34</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0801</Filename>
+  <Filesize>59124</Filesize>
+  <Width>64</Width>
+  <Height>60</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0802</Filename>
+  <Filesize>26028</Filesize>
+  <Width>39</Width>
+  <Height>40</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0803</Filename>
+  <Filesize>7996</Filesize>
+  <Width>30</Width>
+  <Height>15</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0804</Filename>
+  <Filesize>3824</Filesize>
+  <Width>17</Width>
+  <Height>12</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0805</Filename>
+  <Filesize>2674</Filesize>
+  <Width>13</Width>
+  <Height>11</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0806</Filename>
+  <Filesize>1900</Filesize>
+  <Width>13</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0807</Filename>
+  <Filesize>2208</Filesize>
+  <Width>13</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0900</Filename>
+  <Filesize>73298</Filesize>
+  <Width>80</Width>
+  <Height>60</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0900N</Filename>
+  <Filesize>73298</Filesize>
+  <Width>80</Width>
+  <Height>60</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0901</Filename>
+  <Filesize>8262</Filesize>
+  <Width>23</Width>
+  <Height>18</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0902</Filename>
+  <Filesize>19962</Filesize>
+  <Width>38</Width>
+  <Height>29</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0903</Filename>
+  <Filesize>25762</Filesize>
+  <Width>37</Width>
+  <Height>29</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0904</Filename>
+  <Filesize>10608</Filesize>
+  <Width>28</Width>
+  <Height>22</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0905</Filename>
+  <Filesize>5246</Filesize>
+  <Width>19</Width>
+  <Height>14</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0906</Filename>
+  <Filesize>27736</Filesize>
+  <Width>40</Width>
+  <Height>30</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR0907</Filename>
+  <Filesize>27480</Filesize>
+  <Width>40</Width>
+  <Height>30</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR1000</Filename>
+  <Filesize>83824</Filesize>
+  <Width>80</Width>
+  <Height>60</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR1000N</Filename>
+  <Filesize>83866</Filesize>
+  <Width>80</Width>
+  <Height>60</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR1001</Filename>
+  <Filesize>5246</Filesize>
+  <Width>19</Width>
+  <Height>14</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR1002</Filename>
+  <Filesize>13558</Filesize>
+  <Width>25</Width>
+  <Height>21</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR1003</Filename>
+  <Filesize>4456</Filesize>
+  <Width>17</Width>
+  <Height>13</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR1004</Filename>
+  <Filesize>6132</Filesize>
+  <Width>20</Width>
+  <Height>15</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR1005</Filename>
+  <Filesize>10394</Filesize>
+  <Width>23</Width>
+  <Height>18</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR1008</Filename>
+  <Filesize>6672</Filesize>
+  <Width>23</Width>
+  <Height>16</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR1010</Filename>
+  <Filesize>9626</Filesize>
+  <Width>26</Width>
+  <Height>23</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR1100</Filename>
+  <Filesize>107032</Filesize>
+  <Width>79</Width>
+  <Height>56</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR1101</Filename>
+  <Filesize>2832</Filesize>
+  <Width>13</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR1102</Filename>
+  <Filesize>7408</Filesize>
+  <Width>24</Width>
+  <Height>16</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR1103</Filename>
+  <Filesize>2456</Filesize>
+  <Width>13</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR1104</Filename>
+  <Filesize>4004</Filesize>
+  <Width>18</Width>
+  <Height>12</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR1105</Filename>
+  <Filesize>6616</Filesize>
+  <Width>19</Width>
+  <Height>13</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR1106</Filename>
+  <Filesize>10160</Filesize>
+  <Width>26</Width>
+  <Height>26</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR1200</Filename>
+  <Filesize>107576</Filesize>
+  <Width>80</Width>
+  <Height>56</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR1201</Filename>
+  <Filesize>32076</Filesize>
+  <Width>51</Width>
+  <Height>38</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR1202</Filename>
+  <Filesize>55712</Filesize>
+  <Width>59</Width>
+  <Height>45</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR1203</Filename>
+  <Filesize>28162</Filesize>
+  <Width>52</Width>
+  <Height>39</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR1204</Filename>
+  <Filesize>2832</Filesize>
+  <Width>13</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR1300</Filename>
+  <Filesize>113842</Filesize>
+  <Width>80</Width>
+  <Height>60</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR1301</Filename>
+  <Filesize>23840</Filesize>
+  <Width>46</Width>
+  <Height>28</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR1302</Filename>
+  <Filesize>31886</Filesize>
+  <Width>46</Width>
+  <Height>36</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR1303</Filename>
+  <Filesize>27362</Filesize>
+  <Width>40</Width>
+  <Height>30</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR1304</Filename>
+  <Filesize>113718</Filesize>
+  <Width>80</Width>
+  <Height>60</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR1400</Filename>
+  <Filesize>131486</Filesize>
+  <Width>80</Width>
+  <Height>38</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR1400N</Filename>
+  <Filesize>130304</Filesize>
+  <Width>80</Width>
+  <Height>38</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR1401</Filename>
+  <Filesize>36422</Filesize>
+  <Width>51</Width>
+  <Height>39</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR1402</Filename>
+  <Filesize>24342</Filesize>
+  <Width>38</Width>
+  <Height>31</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR1403</Filename>
+  <Filesize>4932</Filesize>
+  <Width>20</Width>
+  <Height>15</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR1404</Filename>
+  <Filesize>132344</Filesize>
+  <Width>80</Width>
+  <Height>38</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR1500</Filename>
+  <Filesize>30836</Filesize>
+  <Width>36</Width>
+  <Height>52</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR1501</Filename>
+  <Filesize>5378</Filesize>
+  <Width>22</Width>
+  <Height>17</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR1502</Filename>
+  <Filesize>6768</Filesize>
+  <Width>26</Width>
+  <Height>20</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR1503</Filename>
+  <Filesize>8840</Filesize>
+  <Width>20</Width>
+  <Height>19</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR1504</Filename>
+  <Filesize>2946</Filesize>
+  <Width>14</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR1505</Filename>
+  <Filesize>2502</Filesize>
+  <Width>15</Width>
+  <Height>12</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR1506</Filename>
+  <Filesize>12732</Filesize>
+  <Width>33</Width>
+  <Height>27</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR1507</Filename>
+  <Filesize>5248</Filesize>
+  <Width>21</Width>
+  <Height>20</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR1508</Filename>
+  <Filesize>4224</Filesize>
+  <Width>18</Width>
+  <Height>15</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR1509</Filename>
+  <Filesize>5990</Filesize>
+  <Width>21</Width>
+  <Height>14</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR1510</Filename>
+  <Filesize>4758</Filesize>
+  <Width>14</Width>
+  <Height>22</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR1511</Filename>
+  <Filesize>3424</Filesize>
+  <Width>15</Width>
+  <Height>12</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR1512</Filename>
+  <Filesize>30138</Filesize>
+  <Width>45</Width>
+  <Height>38</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR1513</Filename>
+  <Filesize>31110</Filesize>
+  <Width>52</Width>
+  <Height>38</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR1514</Filename>
+  <Filesize>25538</Filesize>
+  <Width>44</Width>
+  <Height>32</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR1515</Filename>
+  <Filesize>17760</Filesize>
+  <Width>31</Width>
+  <Height>25</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR1516</Filename>
+  <Filesize>25914</Filesize>
+  <Width>35</Width>
+  <Height>28</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR1600</Filename>
+  <Filesize>81496</Filesize>
+  <Width>56</Width>
+  <Height>47</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR1601</Filename>
+  <Filesize>6132</Filesize>
+  <Width>20</Width>
+  <Height>15</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR1602</Filename>
+  <Filesize>5998</Filesize>
+  <Width>20</Width>
+  <Height>15</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR1603</Filename>
+  <Filesize>3144</Filesize>
+  <Width>15</Width>
+  <Height>12</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR1604</Filename>
+  <Filesize>5644</Filesize>
+  <Width>22</Width>
+  <Height>15</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR1605</Filename>
+  <Filesize>3154</Filesize>
+  <Width>13</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR1606</Filename>
+  <Filesize>2676</Filesize>
+  <Width>13</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR1607</Filename>
+  <Filesize>23840</Filesize>
+  <Width>29</Width>
+  <Height>35</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR1608</Filename>
+  <Filesize>5304</Filesize>
+  <Width>20</Width>
+  <Height>15</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR1609</Filename>
+  <Filesize>2996</Filesize>
+  <Width>13</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR1610</Filename>
+  <Filesize>3410</Filesize>
+  <Width>13</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR1611</Filename>
+  <Filesize>4740</Filesize>
+  <Width>15</Width>
+  <Height>12</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR1612</Filename>
+  <Filesize>2176</Filesize>
+  <Width>13</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR1613</Filename>
+  <Filesize>3008</Filesize>
+  <Width>14</Width>
+  <Height>11</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR1700</Filename>
+  <Filesize>70626</Filesize>
+  <Width>55</Width>
+  <Height>49</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR1800</Filename>
+  <Filesize>37692</Filesize>
+  <Width>38</Width>
+  <Height>26</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR1900</Filename>
+  <Filesize>76070</Filesize>
+  <Width>80</Width>
+  <Height>45</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR1901</Filename>
+  <Filesize>10522</Filesize>
+  <Width>30</Width>
+  <Height>21</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR1902</Filename>
+  <Filesize>3098</Filesize>
+  <Width>15</Width>
+  <Height>12</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR1904</Filename>
+  <Filesize>14144</Filesize>
+  <Width>32</Width>
+  <Height>27</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR1905</Filename>
+  <Filesize>2096</Filesize>
+  <Width>13</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR2000</Filename>
+  <Filesize>106542</Filesize>
+  <Width>65</Width>
+  <Height>55</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR2000N</Filename>
+  <Filesize>101956</Filesize>
+  <Width>65</Width>
+  <Height>55</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR2001</Filename>
+  <Filesize>3144</Filesize>
+  <Width>15</Width>
+  <Height>12</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR2002</Filename>
+  <Filesize>2676</Filesize>
+  <Width>13</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR2006</Filename>
+  <Filesize>3154</Filesize>
+  <Width>13</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR2007</Filename>
+  <Filesize>7760</Filesize>
+  <Width>22</Width>
+  <Height>16</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR2008</Filename>
+  <Filesize>9626</Filesize>
+  <Width>26</Width>
+  <Height>23</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR2009</Filename>
+  <Filesize>3410</Filesize>
+  <Width>13</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR2010</Filename>
+  <Filesize>9706</Filesize>
+  <Width>20</Width>
+  <Height>15</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR2011</Filename>
+  <Filesize>4456</Filesize>
+  <Width>17</Width>
+  <Height>13</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR2012</Filename>
+  <Filesize>6132</Filesize>
+  <Width>20</Width>
+  <Height>15</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR2013</Filename>
+  <Filesize>2674</Filesize>
+  <Width>13</Width>
+  <Height>11</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR2014</Filename>
+  <Filesize>2650</Filesize>
+  <Width>13</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR2015</Filename>
+  <Filesize>2510</Filesize>
+  <Width>13</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR2100</Filename>
+  <Filesize>86308</Filesize>
+  <Width>80</Width>
+  <Height>60</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR2101</Filename>
+  <Filesize>39320</Filesize>
+  <Width>53</Width>
+  <Height>40</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR2102</Filename>
+  <Filesize>16016</Filesize>
+  <Width>36</Width>
+  <Height>32</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR2200</Filename>
+  <Filesize>105096</Filesize>
+  <Width>80</Width>
+  <Height>60</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR2201</Filename>
+  <Filesize>25510</Filesize>
+  <Width>40</Width>
+  <Height>30</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR2202</Filename>
+  <Filesize>31756</Filesize>
+  <Width>40</Width>
+  <Height>30</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR2203</Filename>
+  <Filesize>22358</Filesize>
+  <Width>32</Width>
+  <Height>24</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR2204</Filename>
+  <Filesize>16790</Filesize>
+  <Width>30</Width>
+  <Height>22</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR2205</Filename>
+  <Filesize>16406</Filesize>
+  <Width>30</Width>
+  <Height>22</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR2208</Filename>
+  <Filesize>3424</Filesize>
+  <Width>15</Width>
+  <Height>12</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR2210</Filename>
+  <Filesize>10160</Filesize>
+  <Width>26</Width>
+  <Height>26</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR2300</Filename>
+  <Filesize>87504</Filesize>
+  <Width>80</Width>
+  <Height>60</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR2400</Filename>
+  <Filesize>70926</Filesize>
+  <Width>73</Width>
+  <Height>44</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR2401</Filename>
+  <Filesize>22702</Filesize>
+  <Width>31</Width>
+  <Height>22</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR2402</Filename>
+  <Filesize>30016</Filesize>
+  <Width>56</Width>
+  <Height>32</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR2500</Filename>
+  <Filesize>63398</Filesize>
+  <Width>48</Width>
+  <Height>34</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR2600</Filename>
+  <Filesize>100028</Filesize>
+  <Width>80</Width>
+  <Height>55</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR2602</Filename>
+  <Filesize>10160</Filesize>
+  <Width>26</Width>
+  <Height>26</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR2603</Filename>
+  <Filesize>2884</Filesize>
+  <Width>13</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR2700</Filename>
+  <Filesize>47752</Filesize>
+  <Width>60</Width>
+  <Height>42</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR2800</Filename>
+  <Filesize>135544</Filesize>
+  <Width>80</Width>
+  <Height>56</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR2800N</Filename>
+  <Filesize>135516</Filesize>
+  <Width>80</Width>
+  <Height>56</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR2801</Filename>
+  <Filesize>5900</Filesize>
+  <Width>13</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR2802</Filename>
+  <Filesize>5806</Filesize>
+  <Width>13</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR2803</Filename>
+  <Filesize>6220</Filesize>
+  <Width>15</Width>
+  <Height>12</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR2804</Filename>
+  <Filesize>11314</Filesize>
+  <Width>26</Width>
+  <Height>17</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR2805</Filename>
+  <Filesize>12306</Filesize>
+  <Width>26</Width>
+  <Height>17</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR2806</Filename>
+  <Filesize>41658</Filesize>
+  <Width>65</Width>
+  <Height>43</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR2807</Filename>
+  <Filesize>9392</Filesize>
+  <Width>20</Width>
+  <Height>15</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR2807N</Filename>
+  <Filesize>9392</Filesize>
+  <Width>20</Width>
+  <Height>15</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR2900</Filename>
+  <Filesize>43676</Filesize>
+  <Width>62</Width>
+  <Height>48</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR2901</Filename>
+  <Filesize>5848</Filesize>
+  <Width>21</Width>
+  <Height>17</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR2902</Filename>
+  <Filesize>8442</Filesize>
+  <Width>23</Width>
+  <Height>19</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR2903</Filename>
+  <Filesize>9902</Filesize>
+  <Width>24</Width>
+  <Height>21</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR2904</Filename>
+  <Filesize>11326</Filesize>
+  <Width>24</Width>
+  <Height>25</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR2905</Filename>
+  <Filesize>6988</Filesize>
+  <Width>22</Width>
+  <Height>21</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR3000</Filename>
+  <Filesize>60852</Filesize>
+  <Width>42</Width>
+  <Height>44</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR3001</Filename>
+  <Filesize>43764</Filesize>
+  <Width>48</Width>
+  <Height>37</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR3003</Filename>
+  <Filesize>10362</Filesize>
+  <Width>25</Width>
+  <Height>21</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR3004</Filename>
+  <Filesize>10358</Filesize>
+  <Width>25</Width>
+  <Height>21</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR3005</Filename>
+  <Filesize>10366</Filesize>
+  <Width>25</Width>
+  <Height>21</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR3006</Filename>
+  <Filesize>10370</Filesize>
+  <Width>25</Width>
+  <Height>21</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR3007</Filename>
+  <Filesize>11782</Filesize>
+  <Width>20</Width>
+  <Height>15</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR3008</Filename>
+  <Filesize>9334</Filesize>
+  <Width>20</Width>
+  <Height>15</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR3009</Filename>
+  <Filesize>10634</Filesize>
+  <Width>20</Width>
+  <Height>15</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR3010</Filename>
+  <Filesize>9388</Filesize>
+  <Width>20</Width>
+  <Height>15</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR3011</Filename>
+  <Filesize>8598</Filesize>
+  <Width>19</Width>
+  <Height>17</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR3012</Filename>
+  <Filesize>8382</Filesize>
+  <Width>19</Width>
+  <Height>17</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR3013</Filename>
+  <Filesize>8382</Filesize>
+  <Width>19</Width>
+  <Height>17</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR3014</Filename>
+  <Filesize>8382</Filesize>
+  <Width>19</Width>
+  <Height>17</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR3015</Filename>
+  <Filesize>13768</Filesize>
+  <Width>36</Width>
+  <Height>22</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR3016</Filename>
+  <Filesize>64928</Filesize>
+  <Width>65</Width>
+  <Height>48</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR3017</Filename>
+  <Filesize>90558</Filesize>
+  <Width>80</Width>
+  <Height>60</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR3018</Filename>
+  <Filesize>16414</Filesize>
+  <Width>35</Width>
+  <Height>36</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR3019</Filename>
+  <Filesize>52226</Filesize>
+  <Width>61</Width>
+  <Height>52</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR3020</Filename>
+  <Filesize>13038</Filesize>
+  <Width>29</Width>
+  <Height>27</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR3021</Filename>
+  <Filesize>28126</Filesize>
+  <Width>38</Width>
+  <Height>32</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR3022</Filename>
+  <Filesize>39566</Filesize>
+  <Width>38</Width>
+  <Height>36</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR3023</Filename>
+  <Filesize>27016</Filesize>
+  <Width>34</Width>
+  <Height>27</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR3024</Filename>
+  <Filesize>28162</Filesize>
+  <Width>52</Width>
+  <Height>39</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR3025</Filename>
+  <Filesize>4932</Filesize>
+  <Width>20</Width>
+  <Height>15</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR3026</Filename>
+  <Filesize>2726</Filesize>
+  <Width>13</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR3027</Filename>
+  <Filesize>2674</Filesize>
+  <Width>13</Width>
+  <Height>11</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR4000</Filename>
+  <Filesize>50204</Filesize>
+  <Width>40</Width>
+  <Height>30</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR4500</Filename>
+  <Filesize>54462</Filesize>
+  <Width>61</Width>
+  <Height>53</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR5000</Filename>
+  <Filesize>47698</Filesize>
+  <Width>53</Width>
+  <Height>45</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR5001</Filename>
+  <Filesize>8890</Filesize>
+  <Width>20</Width>
+  <Height>17</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR5002</Filename>
+  <Filesize>7182</Filesize>
+  <Width>20</Width>
+  <Height>17</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR5003</Filename>
+  <Filesize>12134</Filesize>
+  <Width>25</Width>
+  <Height>22</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR5004</Filename>
+  <Filesize>6960</Filesize>
+  <Width>17</Width>
+  <Height>15</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR5005</Filename>
+  <Filesize>3068</Filesize>
+  <Width>14</Width>
+  <Height>11</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR5006</Filename>
+  <Filesize>10394</Filesize>
+  <Width>23</Width>
+  <Height>18</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR5007</Filename>
+  <Filesize>20070</Filesize>
+  <Width>38</Width>
+  <Height>28</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR5008</Filename>
+  <Filesize>8652</Filesize>
+  <Width>22</Width>
+  <Height>16</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR5009</Filename>
+  <Filesize>2996</Filesize>
+  <Width>13</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR5010</Filename>
+  <Filesize>4456</Filesize>
+  <Width>17</Width>
+  <Height>13</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR5011</Filename>
+  <Filesize>3056</Filesize>
+  <Width>13</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR5012</Filename>
+  <Filesize>3154</Filesize>
+  <Width>13</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR5013</Filename>
+  <Filesize>37964</Filesize>
+  <Width>50</Width>
+  <Height>50</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR5014</Filename>
+  <Filesize>7510</Filesize>
+  <Width>24</Width>
+  <Height>16</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR5015</Filename>
+  <Filesize>4740</Filesize>
+  <Width>15</Width>
+  <Height>12</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR5016</Filename>
+  <Filesize>3410</Filesize>
+  <Width>13</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR5200</Filename>
+  <Filesize>34456</Filesize>
+  <Width>40</Width>
+  <Height>30</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR5201</Filename>
+  <Filesize>35216</Filesize>
+  <Width>52</Width>
+  <Height>46</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR5202</Filename>
+  <Filesize>41314</Filesize>
+  <Width>40</Width>
+  <Height>30</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR5203</Filename>
+  <Filesize>53606</Filesize>
+  <Width>58</Width>
+  <Height>35</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR5204</Filename>
+  <Filesize>36746</Filesize>
+  <Width>55</Width>
+  <Height>42</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR5500</Filename>
+  <Filesize>71190</Filesize>
+  <Width>60</Width>
+  <Height>42</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR5501</Filename>
+  <Filesize>4092</Filesize>
+  <Width>15</Width>
+  <Height>11</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR5502</Filename>
+  <Filesize>1926</Filesize>
+  <Width>11</Width>
+  <Height>8</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR5503</Filename>
+  <Filesize>1418</Filesize>
+  <Width>10</Width>
+  <Height>7</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR5504</Filename>
+  <Filesize>7800</Filesize>
+  <Width>23</Width>
+  <Height>18</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR5505</Filename>
+  <Filesize>15528</Filesize>
+  <Width>32</Width>
+  <Height>25</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR5506</Filename>
+  <Filesize>1934</Filesize>
+  <Width>11</Width>
+  <Height>8</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR5507</Filename>
+  <Filesize>1934</Filesize>
+  <Width>11</Width>
+  <Height>8</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR5509</Filename>
+  <Filesize>8760</Filesize>
+  <Width>21</Width>
+  <Height>17</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR6000</Filename>
+  <Filesize>22374</Filesize>
+  <Width>36</Width>
+  <Height>35</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR6001</Filename>
+  <Filesize>7898</Filesize>
+  <Width>21</Width>
+  <Height>17</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR6002</Filename>
+  <Filesize>11868</Filesize>
+  <Width>31</Width>
+  <Height>19</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR6003</Filename>
+  <Filesize>20908</Filesize>
+  <Width>28</Width>
+  <Height>29</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR6004</Filename>
+  <Filesize>17334</Filesize>
+  <Width>34</Width>
+  <Height>32</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR6005</Filename>
+  <Filesize>18780</Filesize>
+  <Width>40</Width>
+  <Height>30</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR6008</Filename>
+  <Filesize>4932</Filesize>
+  <Width>20</Width>
+  <Height>15</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR6011</Filename>
+  <Filesize>5990</Filesize>
+  <Width>21</Width>
+  <Height>14</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR6012</Filename>
+  <Filesize>2726</Filesize>
+  <Width>13</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR6100</Filename>
+  <Filesize>39968</Filesize>
+  <Width>38</Width>
+  <Height>26</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR6101</Filename>
+  <Filesize>38332</Filesize>
+  <Width>56</Width>
+  <Height>44</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR6102</Filename>
+  <Filesize>19200</Filesize>
+  <Width>48</Width>
+  <Height>25</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR6103</Filename>
+  <Filesize>16640</Filesize>
+  <Width>45</Width>
+  <Height>24</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR6104</Filename>
+  <Filesize>31960</Filesize>
+  <Width>42</Width>
+  <Height>32</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR6105</Filename>
+  <Filesize>10220</Filesize>
+  <Width>25</Width>
+  <Height>19</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR6106</Filename>
+  <Filesize>7222</Filesize>
+  <Width>18</Width>
+  <Height>15</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR6107</Filename>
+  <Filesize>6162</Filesize>
+  <Width>20</Width>
+  <Height>15</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR6108</Filename>
+  <Filesize>5136</Filesize>
+  <Width>20</Width>
+  <Height>20</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR6109</Filename>
+  <Filesize>8184</Filesize>
+  <Width>24</Width>
+  <Height>18</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR6110</Filename>
+  <Filesize>5258</Filesize>
+  <Width>20</Width>
+  <Height>15</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR6111</Filename>
+  <Filesize>2458</Filesize>
+  <Width>13</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR6200</Filename>
+  <Filesize>16620</Filesize>
+  <Width>40</Width>
+  <Height>30</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR6300</Filename>
+  <Filesize>32442</Filesize>
+  <Width>36</Width>
+  <Height>20</Height>
+</AreaData>
+<AreaData>
+  <Game>BG2 ToB</Game>
+  <Filename>AR6400</Filename>
+  <Filesize>45806</Filesize>
+  <Width>39</Width>
+  <Height>30</Height>
+</AreaData>
+</ArrayOfAreaData>

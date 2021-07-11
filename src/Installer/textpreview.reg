@@ -1,0 +1,10 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\.tp2]
+"Content Type"="text/plain"
+"PerceivedType"="text"
+
+[HKEY_CLASSES_ROOT\.tp2\shellex]
+
+[HKEY_CLASSES_ROOT\.tp2\shellex\{8895b1c6-b41f-4c1c-a562-0d564250836f}]
+@="{1531d583-8375-4d3f-b5fb-d23bbd169f22}"

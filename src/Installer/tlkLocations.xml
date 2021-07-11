@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ibm850"?>
+<ArrayOfTlkLocationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TlkLocationData>
+    <TlkPath>D:\Games\IE\sod\00806\lang\en_US\dialog.tlk</TlkPath>
+    <ApplyPath>D:\</ApplyPath>
+  </TlkLocationData>
+  <TlkLocationData>
+    <TlkPath>D:\Games\IE\sod\00806\lang\en_US\dialog.tlk</TlkPath>
+    <ApplyPath>C:\</ApplyPath>
+  </TlkLocationData>
+</ArrayOfTlkLocationData>

@@ -1,0 +1,690 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Infinity Engine Shell Extensions</title>
+    <style>
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        img {
+            height: auto;
+            width: 100%;
+            padding: 25px;
+        }
+    </style>
+</head>
+<body>
+
+    <main class="container">
+        <h1>Infinity Engine Shell Extensions</h1>
+
+        <h2>What is the Infinity Engine?</h2>
+        The Infinity Engine is a video game engine created by BioWare in the late 1990s, used to power the Baldur's Gate series, the Icewind Dales series and Planescape: Torment.
+
+
+        <h2>What is a shell extension?</h2>
+        The Windows File Explorer provides defined extention points where additional functionality can be added via the use of "shell extensions" - essentially plugins to allow the application to deal with additional filetypes.
+        Shell extensions allow customising tooltips, adding thumbnail previews for additional image types, adding metadata columns (e.g. EXIF information about the camera and location) and adding new entries into the right-click menu.
+
+        <h2>What are the Infinity Engine Shell Extensions?</h2>
+        The Infinity Engine Shell Extensions is a collection of plugins extending File Explorer with knowledge of the Infinity Engine file formats, making the process of developing mods easier and quicker. The shell extensions are split into categories:<br />
+        <br />
+
+        <b>Tooltips</b><br />
+        Tooltips appear when hovering over a file in File Explorer.<br />
+        <img src="tooltip-itm.png" />
+        <br />
+        <br />
+        <b>Graphical Previews</b><br />
+        Graphical Previews appear in the details pane of File Explorer when a file is selected.<br />
+        <img src="thumbnail-tis.png" />
+        <br />
+        <br />
+        <b>Text Previews</b><br />
+        Text Previews appear in the details pane of File Explorer when a file is selected.<br />
+        <img src="text-2da.png" />
+        <br />
+        <h2>What files are supported?</h2>
+
+        <table border="1">
+            <thead>
+                <tr>
+                    <td>
+                        File
+                    </td>
+                    <td>
+                        Tooltip
+                    </td>
+                    <td>
+                        Preview
+                    </td>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>
+                        2DA
+                    </td>
+                    <td>
+                        Yes
+                    </td>
+                    <td>
+                        Yes
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        ACM
+                    </td>
+                    <td>
+                    </td>
+                    <td>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        ARE
+                    </td>
+                    <td>
+                        Yes
+                    </td>
+                    <td>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        BAF
+                    </td>
+                    <td>
+                        Yes
+                    </td>
+                    <td>
+                        Yes
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        BAM
+                    </td>
+                    <td>
+                        Yes
+                    </td>
+                    <td>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        BCS
+                    </td>
+                    <td>
+                        Yes
+                    </td>
+                    <td>
+                        Yes
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        BIF
+                    </td>
+                    <td>
+                    </td>
+                    <td>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        BMP
+                    </td>
+                    <td>
+                    </td>
+                    <td>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        CHR
+                    </td>
+                    <td>
+                        Yes
+                    </td>
+                    <td>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        CHU
+                    </td>
+                    <td>
+                        Yes
+                    </td>
+                    <td>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        CRE
+                    </td>
+                    <td>
+                        Yes
+                    </td>
+                    <td>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        DLG
+                    </td>
+                    <td>
+                        Yes
+                    </td>
+                    <td>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        EFF
+                    </td>
+                    <td>
+                        Yes
+                    </td>
+                    <td>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        FNT
+                    </td>
+                    <td>
+                    </td>
+                    <td>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        GAM
+                    </td>
+                    <td>
+                        Yes
+                    </td>
+                    <td>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        GLSL
+                    </td>
+                    <td>
+                        Yes
+                    </td>
+                    <td>
+                        Yes
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        GUI
+                    </td>
+                    <td>
+                        Yes
+                    </td>
+                    <td>
+                        Yes
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        IDS
+                    </td>
+                    <td>
+                        Yes
+                    </td>
+                    <td>
+                        Yes
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        INI
+                    </td>
+                    <td>
+                        Yes
+                    </td>
+                    <td>
+                        Yes
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        ITM
+                    </td>
+                    <td>
+                        Yes
+                    </td>
+                    <td>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        KEY
+                    </td>
+                    <td>
+                        Yes
+                    </td>
+                    <td>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        LUA
+                    </td>
+                    <td>
+                        Yes
+                    </td>
+                    <td>
+                        Yes
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        MAZE
+                    </td>
+                    <td>
+                    </td>
+                    <td>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        MENU
+                    </td>
+                    <td>
+                        Yes
+                    </td>
+                    <td>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        MOS
+                    </td>
+                    <td>
+                        Yes
+                    </td>
+                    <td>
+                        Yes (MOS and MOSC)
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        MUS
+                    </td>
+                    <td>
+                        Yes
+                    </td>
+                    <td>
+                        Yes
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        MVE
+                    </td>
+                    <td>
+                    </td>
+                    <td>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        PLT
+                    </td>
+                    <td>
+                    </td>
+                    <td>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        PNG
+                    </td>
+                    <td>
+                    </td>
+                    <td>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        PRO
+                    </td>
+                    <td>
+                        Yes
+                    </td>
+                    <td>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        PVRZ
+                    </td>
+                    <td>
+                    </td>
+                    <td>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        SAV
+                    </td>
+                    <td>
+                    </td>
+                    <td>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        SQL
+                    </td>
+                    <td>
+                        Yes
+                    </td>
+                    <td>
+                        Yes
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        SPL
+                    </td>
+                    <td>
+                        Yes
+                    </td>
+                    <td>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        SRC
+                    </td>
+                    <td>
+                    </td>
+                    <td>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        STO
+                    </td>
+                    <td>
+                        Yes
+                    </td>
+                    <td>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        TIS
+                    </td>
+                    <td>
+                        Yes
+                    </td>
+                    <td>
+                        Yes
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        TLK
+                    </td>
+                    <td>
+                        Yes
+                    </td>
+                    <td>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        TOH
+                    </td>
+                    <td>
+                    </td>
+                    <td>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        TOT
+                    </td>
+                    <td>
+                    </td>
+                    <td>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        TTF
+                    </td>
+                    <td>
+                    </td>
+                    <td>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        VAR
+                    </td>
+                    <td>
+                        Yes
+                    </td>
+                    <td>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        VEF
+                    </td>
+                    <td>
+                        Yes
+                    </td>
+                    <td>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        VVC
+                    </td>
+                    <td>
+                        Yes
+                    </td>
+                    <td>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        WAV/WAVC
+                    </td>
+                    <td>
+                    </td>
+                    <td>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        WBM
+                    </td>
+                    <td>
+                    </td>
+                    <td>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        WED
+                    </td>
+                    <td>
+                        Yes
+                    </td>
+                    <td>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        WFX
+                    </td>
+                    <td>
+                        Yes
+                    </td>
+                    <td>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        WMP
+                    </td>
+                    <td>
+                        Yes
+                    </td>
+                    <td>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>
+                        D
+                    </td>
+                    <td>
+                    </td>
+                    <td>
+                        Yes
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        TRA
+                    </td>
+                    <td>
+                    </td>
+                    <td>
+                        Yes
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        TP2
+                    </td>
+                    <td>
+                    </td>
+                    <td>
+                        Yes
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+
+        <h2>Prerequisites</h2>
+        <ul>
+            <li>.NET Framework 4.7+</li>
+            <li>Powershell</li>
+        </ul>
+
+        <h2>Installation</h2>
+        Run the installer (ieshellex.exe)<br />
+        Select a location to install the shell extensions<br />
+        Note: You may need to reboot after installation to for all the shell extensions to load
+        <!--Place ps1 files in %userprofile%\documents\Infinity Engine Shell Extensions<br />
+        Place tlkLocations.xml in %userprofile%\documents\Infinity Engine Shell Extensions<br />
+        Edit tlkLocations.xml<br />
+        Place DLL files in their permanent home<br />
+        Register each DLL file (srm install xxx.dll -codebase)<br />-->
+
+        <h2>Uninstallation</h2>
+        The shell extensions can be uninstalled via the Windows Add/Remove programs area of the Control Panel / Settings.
+        <!--Delete ps1 files in %userprofile%\documents\Infinity Engine Shell Extensions<br />
+        Delete tlkLocations.xml in %userprofile%\documents\Infinity Engine Shell Extensions<br />
+        Unregister each DLL file (srm uninstall xxx.dll -codebase)<br />
+        Delete each DLL file-->
+
+        <h2>Customizing output</h2>
+        <b>Scripts</b>
+        <p>
+            The content of the tooltips provided by the infotip shell extensions is generated by a series of PowerShell scripts, one script per file type. The content of the tooltips can be customised by editing each script file. Scripts are located in the config directory under the install location.
+        </p>
+        <p>
+            Well-formatted strref values referenced in the return from the script are automatically looked up in a TLK file. The format to trigger this behaviour is an @ preceeding the normal PowerShell variable escaping e.g. @${111} would trigger the shell extensions to automatically lookup strref 111.
+        </p>
+        <p>
+            <b>tlkLocations.xml</b><br />
+            The shell extensions support multiple TLK locations in a hierarchy, and will search 'up' the directory tree from the file location until a matching TLK specification is found. TLK specifications are located in the tlkLocations.xml file location in the config directory in the install location. The tlkLocations.xml file can be cutomised to include the locations specific to your installations and mod directories, allowing any TLK references to reference the correct TLK file.
+        </p>
+        <p>
+            A sample tlkLocations.xml file is displayed below, it contains three TLK file references.<br />
+            &bull; Any file with a TLK reference within the D:\mymods\AmelyssanRomance directory will use the D:\Games\IE\BG2EE\00783\lang\en_US\dialog.tlk TLK file.<br />
+            &bull; Any file with a TLK reference within the D:\ drive will use the D:\Games\IE\sod\00806\lang\en_US\dialog.tlk TLK file.<br />
+            &bull; Any file with a TLK reference within the C:\drive will use the D:\Games\IE\BG1\dialog.tlk TLK file.<br />
+
+            <pre>
+&lt;?xml version="1.0" encoding="ibm850" ?&gt;
+&lt;ArrayOfTlkLocationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;TlkLocationData&gt;
+    &lt;TlkPath&gt;D:\Games\IE\BG2EE\00783\lang\en_US\dialog.tlk&lt;/TlkPath&gt;
+    &lt;ApplyPath&gt;D:\mymods\AmelyssanRomance&lt;/ApplyPath&gt;
+  &lt;/TlkLocationData&gt;
+  &lt;TlkLocationData&gt;
+    &lt;TlkPath&gt;D:\Games\IE\sod\00806\lang\en_US\dialog.tlk&lt;/TlkPath&gt;
+    &lt;ApplyPath&gt;D:\&lt;/ApplyPath&gt;
+  &lt;/TlkLocationData&gt;
+  &lt;TlkLocationData&gt;
+    &lt;TlkPath&gt;D:\Games\IE\BG1\dialog.tlk&lt;/TlkPath&gt;
+    &lt;ApplyPath&gt;C:\&lt;/ApplyPath&gt;
+  &lt;/TlkLocationData&gt;
+&lt;/ArrayOfTlkLocationData&gt;
+</pre>
+        </p>
+
+        <b>Tilesets</b><br />
+        <p>
+            The TIS Preview shell extension shows a graphical representation of the image information contained with TIS files. TIS files <i>only</i> contain graphical information, they do not contain any <i>dimension</i> information, i.e. it is not possible to determine the dimensions of an image from only a TIS file.
+        </p>
+        <p>
+            In order to display a TIS file with the expected dimensions, the TIS Preview shell extension checks areaDatas.xml (in the config directory in the install location). The shell extension matches the TIS filename to the filename in areaDatas.xml and then reads the image width and height from there. If the filename is not foud in areaData.xml the TIS Preview defaults to 64x64 pixels (i.e. a single tileset block). The default areaDatas.xml file contains image dimension information for Baldur's Gate (including TotS) and Baldur's Gate II (including ToB).
+        </p>
+        <p>
+            You can edit areaData.xml with image dimension information for any custom areas, in order to provide information to facilitate a correctly rendered image.
+        </p>
+        <p>
+            A sample areasData.xml file is displayed below, it contains two area definitions.<br />
+            &bull; Any file named AR0002.tis will be displayed with a width of 14 blocks (896 pixels) and a height of 10 blocks (640 pixels)<br />
+            &bull; Any file named AR0100.tis will be displayed with a width of 67 blocks (4288 pixels) and a height of 50 blocks (3200 pixels)<br />
+            <br />
+            Note: 1 block is 64 pixels.
+            <pre>
+&lt;?xml version="1.0" encoding="ibm850" ?&gt;
+  &lt;ArrayOfAreaData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+    &lt;AreaData&gt;
+      &lt;Game&gt;BG1 TotS&lt;/Game&gt;
+      &lt;Filename&gt;AR0002&lt;/Filename&gt;
+      &lt;Filesize&gt;4238&lt;/Filesize&gt;
+      &lt;Width&gt;14&lt;/Width&gt;
+      &lt;Height&gt;10&lt;/Height&gt;
+    &lt;/AreaData&gt;
+    &lt;AreaData&gt;
+      &lt;Game&gt;BG1 TotS&lt;/Game&gt;
+      &lt;Filename&gt;AR0100&lt;/Filename&gt;
+      &lt;Filesize&gt;82290&lt;/Filesize&gt;
+      &lt;Width&gt;67&lt;/Width&gt;
+      &lt;Height&gt;50&lt;/Height&gt;
+    &lt;/AreaData&gt;
+  &lt;/ArrayOfAreaData&gt;
+</pre>
+            <br />
+            Notes:<br />
+            If multiple entries with the same name are located in the areaDatas.xml file the earliest occurance will be used.<br />
+            The current areaDatas.xml implementation differentiates between files based solely on the filename - this will cause incorrect image sizes e.g. for Baldur's Gate compared to Baldur's Gate II. It is intended to use the filesize information to make this differentiate in the future.
+        </p>
+    </main>
+</body>
+</html>
