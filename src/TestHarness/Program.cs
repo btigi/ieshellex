@@ -1,4 +1,5 @@
 ﻿using IEBAFInfotip;
+using IEBAMPreview;
 
 namespace TestHarness
 {
@@ -11,10 +12,10 @@ namespace TestHarness
             //var infotip = new MosPreviewHandlerControl();
             //infotip.LoadMos(SelectedItemPath);
 
-            var SelectedItemPath = @"C:\tests\AR0903a31b.BAF";
-            var infotip = new BafInfotipHandler();
+            var SelectedItemPath = @"C:\tests\A7!BDCAE.BAM";
+            var infotip = new BamPreviewHandlerControl();
 
-            infotip.HandleRequest(SelectedItemPath, false);
+            infotip.DoPreview(SelectedItemPath);
         }
     }
 }
