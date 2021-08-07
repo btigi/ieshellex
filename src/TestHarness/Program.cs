@@ -1,5 +1,4 @@
-﻿using IEBAFInfotip;
-using IEBAMPreview;
+﻿using IEBAMPreview;
 
 namespace TestHarness
 {
@@ -12,7 +11,7 @@ namespace TestHarness
             //var infotip = new MosPreviewHandlerControl();
             //infotip.LoadMos(SelectedItemPath);
 
-            var SelectedItemPath = @"C:\tests\A7!BDCAE.BAM";
+            var SelectedItemPath = @"D:\eee.bam";
             var infotip = new BamPreviewHandlerControl();
 
             infotip.DoPreview(SelectedItemPath);

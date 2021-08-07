@@ -61,6 +61,10 @@
       <Project>{7fd7cc01-a046-4163-83d8-37671078ad9b}</Project>
       <Name>IEBAFInfotip</Name>
     </ProjectReference>
+    <ProjectReference Include="..\IEBAMPreview\IEBAMPreview.csproj">
+      <Project>{0e7ccce1-bddc-4258-87cf-8a0063f80859}</Project>
+      <Name>IEBAMPreview</Name>
+    </ProjectReference>
     <ProjectReference Include="..\IEMOSPreview\IEMOSPreview.csproj">
       <Project>{c5ffa097-c6d5-4b2f-adab-34f863b99ce4}</Project>
       <Name>IEMOSPreview</Name>

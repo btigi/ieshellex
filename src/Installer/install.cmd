@@ -4,6 +4,7 @@ ServerRegistrationManager.exe install IE2DAInfotip.dll -codebase
 ServerRegistrationManager.exe install IEAREInfotip.dll -codebase
 ServerRegistrationManager.exe install IEBAFInfotip.dll -codebase
 ServerRegistrationManager.exe install IEBAMInfotip.dll -codebase
+ServerRegistrationManager.exe install IEBAMPreview.dll -codebase
 ServerRegistrationManager.exe install IEBCSInfotip.dll -codebase
 ServerRegistrationManager.exe install IECHRInfotip.dll -codebase
 ServerRegistrationManager.exe install IECHUInfotip.dll -codebase

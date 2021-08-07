@@ -4,6 +4,7 @@ ServerRegistrationManager.exe uninstall IE2DAInfotip.dll
 ServerRegistrationManager.exe uninstall IEAREInfotip.dll
 ServerRegistrationManager.exe uninstall IEBAFInfotip.dll
 ServerRegistrationManager.exe uninstall IEBAMInfotip.dll
+ServerRegistrationManager.exe uninstall IEBAMPreview.dll
 ServerRegistrationManager.exe uninstall IEBCSInfotip.dll
 ServerRegistrationManager.exe uninstall IECHRInfotip.dll
 ServerRegistrationManager.exe uninstall IECHUInfotip.dll

@@ -62,15 +62,11 @@ namespace IEBAMPreview
             try
             {
                 var images = LoadBam(selectedFilePath);
-
-                foreach (var image in images)
-                {
-                    iconImages.Add(image);
-                }
+                iconImages.AddRange(images);
 
                 AddIconsToControl();
             }
-            catch
+            catch (Exception ex)
             {
                 //  Maybe we could show something to the user in the preview
                 //  window, but for now we'll just ignore any exceptions.
@@ -103,8 +99,6 @@ namespace IEBAMPreview
 
         public List<Bitmap> LoadBam(string filename)
         {
-            File.AppendAllLines(@"D:\out\aa.txt", new List<string>() { "0" });
-
             using (var s = new MemoryStream())
             {
                 using (var fs = new FileStream(filename, FileMode.Open, FileAccess.Read))
@@ -152,20 +146,16 @@ namespace IEBAMPreview
 
         private List<Bitmap> HandleBam(BinaryReader br)
         {
-            File.AppendAllLines(@"D:\out\aa.txt", new List<string>() { "6" });
-
             var signature = string.Join("", br.ReadChars(4));
             var version = string.Join("", br.ReadChars(4));
 
             if (version == "V1  " && signature == "BAM ")
             {
-                File.AppendAllLines(@"D:\out\aa.txt", new List<string>() { "5" });
-
-                List<BamFrameEntryBinary> frameEntries = new List<BamFrameEntryBinary>();
-                List<BamCycleEntryBinary> cycles = new List<BamCycleEntryBinary>();
-                List<RGBA> palette = new List<RGBA>();
-                List<ushort> frameLookups = new List<ushort>();
-                List<byte[]> frames = new List<byte[]>();
+                var frameEntries = new List<BamFrameEntryBinary>();
+                var cycles = new List<BamCycleEntryBinary>();
+                var palette = new List<RGBA>();
+                var frameLookups = new List<ushort>();
+                var frames = new List<Stream>();
 
                 // header
                 var frameEntryCount = br.ReadInt16();
@@ -174,6 +164,7 @@ namespace IEBAMPreview
                 var frameEntryOffset = br.ReadInt32();
                 var paletteOffset = br.ReadInt32();
                 var frameLookupTableOffset = br.ReadInt32();
+                var frameLookupTableCount = 0;
 
                 br.BaseStream.Seek(frameEntryOffset, SeekOrigin.Begin);
                 for (int i = 0; i < frameEntryCount; i++)
@@ -209,6 +200,12 @@ namespace IEBAMPreview
                         FrameIndexOffset = frameIndexOffset
                     };
 
+                    // We need to track the highest frame lookup index referenced, as this info isn't stored in the BAM file directly
+                    if (frameIndexCount + frameIndexOffset > frameLookupTableCount)
+                    {
+                        frameLookupTableCount = frameIndexCount + frameIndexOffset;
+                    }
+
                     cycles.Add(cycle);
                 }
 
@@ -225,25 +222,12 @@ namespace IEBAMPreview
                     palette.Add(paletteEntry);
                 }
 
-                // We need to infer the number of framelookups by looking at the number referenced by cycles
-                var count = 0;
-                for (int i = 0; i < cycles.Count; i++)
-                {
-                    var tmp = cycles[i].FrameIndexOffset + cycles[i].FrameIndexCount;
-                    if (tmp > count)
-                    {
-                        count = tmp;
-                    }
-                }
-
                 br.BaseStream.Seek(frameLookupTableOffset, SeekOrigin.Begin);
-                for (int i = 0; i < frameLookupTableOffset; i++)
+                for (int i = 0; i < frameLookupTableCount; i++)
                 {
                     var flt = br.ReadUInt16();
                     frameLookups.Add(flt);
                 }
-
-                File.AppendAllLines(@"D:\out\aa.txt", new List<string>() { "7" });
 
                 var result = new List<Bitmap>();
                 for (int i = 0; i < frameEntries.Count; i++)
@@ -251,27 +235,36 @@ namespace IEBAMPreview
                     br.BaseStream.Seek(frameEntries[i].FrameDataOffset & 0x7FFFFFFF, SeekOrigin.Begin);
                     ulong pixelCount = (ulong)(frameEntries[i].Height * frameEntries[i].Width);
                     var rleCompressed = (frameEntries[i].FrameDataOffset & 0x80000000) == 0;
-                    byte[] pixels;
-                    if (rleCompressed)
-                    {
-                        pixels = new byte[pixelCount];
-                    }
-                    else
-                    {
-                        pixels = new byte[pixelCount];
-                    }
-
-                    File.AppendAllLines(@"D:\out\aa.txt", new List<string>() { "8" });
+                    var pixels = new byte[pixelCount];
 
                     br.BaseStream.Read(pixels, 0, (int)pixelCount);
                     if (rleCompressed)
                     {
+                        // RLE encoding: 
+                        // If the byte is the transparent index, read the next byte (x) and output (x+1) copies of the transarent colour
+                        // If the byte is not the transparent index, it represents itself
+                        // e.g. for a transparent colour of 0 the values 1203 would indicate
+                        // 1x colour 1, 1x colour 2, 4x transparent colour
+
                         var decodedPixels = new List<byte>();
                         for (int m = 0; m < pixels.Length; m++)
                         {
+                            // We need to stop when we've read/calculated all the pixels required to make this frame
+                            if (decodedPixels.Count == (int)pixelCount)
+                            {
+                                pixels = decodedPixels.ToArray();
+                                break;
+                            }
+
                             if (pixels[m] == rleColourIndex)
                             {
-                                for (var runLength = 0; runLength <= (byte)pixels[m + 1 >= pixels.Length ? pixels.Length - 1 : m + 1]; runLength++)
+                                var rlePixelCount = 1;
+
+                                if (m + 1 < pixels.Length)
+                                {
+                                    rlePixelCount = pixels[m + 1] + 1;
+                                }
+                                for (var runLength = 0; runLength < rlePixelCount; runLength++)
                                 {
                                     decodedPixels.Add(rleColourIndex);
                                 }
@@ -282,7 +275,21 @@ namespace IEBAMPreview
                                 decodedPixels.Add(pixels[m]);
                             }
                         }
-                        pixels = decodedPixels.ToArray();
+
+                        // We need to stop when we've read/calculated all the pixels required to make this frame
+                        if (decodedPixels.Count == pixels.Length)
+                        {
+                            pixels = decodedPixels.ToArray();
+                        }
+                        else
+                        {
+                            // We read the decoded data into the expected location (pixels) byte by byte as 
+                            // copying the entire thing over results in an exception
+                            for (int idx = 0; idx < decodedPixels.Count; idx++)
+                            {
+                                pixels[idx] = decodedPixels[idx];
+                            }
+                        }
                     }
 
                     var data = new List<RGBA>();
@@ -291,8 +298,6 @@ namespace IEBAMPreview
                         data.Add(palette[p]);
                     }
 
-                    File.AppendAllLines(@"D:\out\aa.txt", new List<string>() { "9" });
-
                     var size = frameEntries[i].Width * 4 * frameEntries[i].Height;
                     var xdata = new byte[size];
                     var cnt = 0;
@@ -300,58 +305,44 @@ namespace IEBAMPreview
                     {
                         for (int x = 0; x < frameEntries[i].Width; x++)
                         {
+                            var alpha = data[(y * frameEntries[i].Width) + x].Alpha;
                             xdata[cnt] = data[(y * frameEntries[i].Width) + x].Blue;
                             xdata[cnt + 1] = data[(y * frameEntries[i].Width) + x].Green;
                             xdata[cnt + 2] = data[(y * frameEntries[i].Width) + x].Red;
-                            xdata[cnt + 3] = data[(y * frameEntries[i].Width) + x].Alpha;
-                            cnt = cnt + 4;
+                            xdata[cnt + 3] = alpha == (byte)0 ? (byte)255 : alpha;
+                            cnt += 4;
                         }
                     }
 
-                    File.AppendAllLines(@"D:\out\aa.txt", new List<string>() { "10" });
-
+                    // Saving the bitmap image directly to a frames array here results in the image being corrupt
+                    // when we next access it, however if we save the bitmap to a stream and save the stream,
+                    // everything works fine, if a little inefficiently
+                    var s = new MemoryStream();
                     var img = new Bitmap(frameEntries[i].Width, frameEntries[i].Height, frameEntries[i].Width * 4, PixelFormat.Format32bppArgb, Marshal.UnsafeAddrOfPinnedArrayElement(xdata, 0));
-
-                    File.AppendAllLines(@"D:\out\aa.txt", new List<string>() { "11" });
-
-                    //Bitmap bitmap = new Bitmap(frameEntries[i].Width, frameEntries[i].Height);
-                    //var bData = bitmap.LockBits(new Rectangle(0, 0, frameEntries[i].Width, frameEntries[i].Height), ImageLockMode.ReadWrite, bitmap.PixelFormat);
-                    //var size = bData.Stride * bData.Height;
-                    //var xdata = new byte[size];
-                    //Marshal.Copy(bData.Scan0, xdata, 0, size);
-                    //var cnt = 0;
-                    //for (int y = 0; y < frameEntries[i].Height; y++)
-                    //{
-                    //    for (int x = 0; x < frameEntries[i].Width; x++)
-                    //    {
-                    //        xdata[cnt] = data[(y * frameEntries[i].Width) + x].Blue;
-                    //        xdata[cnt + 1] = data[(y * frameEntries[i].Width) + x].Green;
-                    //        xdata[cnt + 2] = data[(y * frameEntries[i].Width) + x].Red;
-                    //        xdata[cnt + 3] = data[(y * frameEntries[i].Width) + x].Alpha;
-                    //        cnt = cnt + 4;
-                    //    }
-                    //}
-                    //Marshal.Copy(xdata, 0, bData.Scan0, xdata.Length);
-                    //bitmap.UnlockBits(bData);
-
-                    //bitmap.Save(String.Format(@"D:\x\out_{0}.bmp", i), ImageFormat.Bmp); //TODO: temp
-
-                    img.Save(String.Format(@"D:\x\out_{0}.bmp", i), ImageFormat.Bmp); //TODO: temp
-
-                    File.AppendAllLines(@"D:\out\aa.txt", new List<string>() { "12" });
-
-                    result.Add(img);
+                    img.Save(s, ImageFormat.Bmp);
+                    frames.Add(s);
                 }
 
-                File.AppendAllLines(@"D:\out\aa.txt", new List<string>() { "xx" });
+
+                foreach (var cycle in cycles)
+                {
+                    for (int frameIndexCount = 0; frameIndexCount < cycle.FrameIndexCount; frameIndexCount++)
+                    {
+                        var frameLookupIndex = cycle.FrameIndexOffset + frameIndexCount;
+                        var frameIndex = frameLookups[frameLookupIndex];
+                        var frame = frames[frameIndex];
+                        var bitmap = new Bitmap(frame);
+                        result.Add(bitmap);
+                    }
+                }
 
                 return result;
             }
+
             return new List<Bitmap>() { new Bitmap(1, 1) };
         }
 
-        [StructLayout(LayoutKind.Sequential, Pack = 1)]
-        struct BamFrameEntryBinary
+        private class BamFrameEntryBinary
         {
             public Int16 Width;
             public Int16 Height;
@@ -360,14 +351,13 @@ namespace IEBAMPreview
             public Int32 FrameDataOffset; // 0-30 - offset, 31 - IsNotRLECompressed
         }
 
-        [StructLayout(LayoutKind.Sequential, Pack = 1)]
-        struct BamCycleEntryBinary
+        private class BamCycleEntryBinary
         {
             public Int16 FrameIndexCount;
             public Int16 FrameIndexOffset; // Index into FrameLookupTable
         }
 
-        public class RGBA
+        private class RGBA
         {
             public byte Red { get; set; }
             public byte Green { get; set; }

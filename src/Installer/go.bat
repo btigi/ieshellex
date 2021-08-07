@@ -35,6 +35,7 @@ copy ..\IE2DAInfotip\bin\Release\IE2DAInfotip.dll output\
 copy ..\IEAREInfotip\bin\Release\IEAREInfotip.dll output\
 copy ..\IEBAFInfotip\bin\Release\IEBAFInfotip.dll output\
 copy ..\IEBAMInfotip\bin\Release\IEBAMInfotip.dll output\
+copy ..\IEBAMPreview\bin\Release\IEBAMPreview.dll output\
 copy ..\IEBCSInfotip\bin\Release\IEBCSInfotip.dll output\
 copy ..\IECHRInfotip\bin\Release\IECHRInfotip.dll output\
 copy ..\IECHUInfotip\bin\Release\IECHUInfotip.dll output\
