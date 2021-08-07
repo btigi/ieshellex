@@ -37,4 +37,4 @@ ServerRegistrationManager.exe install IEWEDInfotip.dll -codebase
 ServerRegistrationManager.exe install IEWFXInfotip.dll -codebase
 ServerRegistrationManager.exe install IEWMPInfotip.dll -codebase
 
-pause
+::pause

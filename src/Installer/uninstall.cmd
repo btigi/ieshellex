@@ -37,4 +37,4 @@ ServerRegistrationManager.exe uninstall IEWEDInfotip.dll
 ServerRegistrationManager.exe uninstall IEWFXInfotip.dll
 ServerRegistrationManager.exe uninstall IEWMPInfotip.dll
 
-pause
+::pause
