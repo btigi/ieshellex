@@ -131,6 +131,7 @@ File /oname=bin\IE2DAInfotip.dll IE2DAInfotip.dll
 File /oname=bin\IEAREInfotip.dll IEAREInfotip.dll
 File /oname=bin\IEBAFInfotip.dll IEBAFInfotip.dll
 File /oname=bin\IEBAMInfotip.dll IEBAMInfotip.dll
+File /oname=bin\IEBAMPreview.dll IEBAMPreview.dll
 File /oname=bin\IEBCSInfotip.dll IEBCSInfotip.dll
 File /oname=bin\IECHRInfotip.dll IECHRInfotip.dll
 File /oname=bin\IECHUInfotip.dll IECHUInfotip.dll
@@ -271,6 +272,7 @@ Delete $INSTDIR\bin\IE2DAInfotip.dll
 Delete $INSTDIR\bin\IEAREInfotip.dll
 Delete $INSTDIR\bin\IEBAFInfotip.dll
 Delete $INSTDIR\bin\IEBAMInfotip.dll
+Delete $INSTDIR\bin\IEBAMPreview.dll
 Delete $INSTDIR\bin\IEBCSInfotip.dll
 Delete $INSTDIR\bin\IECHRInfotip.dll
 Delete $INSTDIR\bin\IECHUInfotip.dll

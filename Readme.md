@@ -10,7 +10,7 @@ __Prerequisites__
 
 - Powershell
 
-The recommended installation method is the pre-built installation [executation](https://github.com/btigi/ieshellex/releases/), though shell extensions can be manually installed a below.
+The recommended installation method is the pre-built installation [executable](https://github.com/btigi/ieshellex/releases/), though shell extensions can be manually installed a below.
 
 Shell extensions must be registered with the Windows shell. IEShellEx this can be done via the use of ServerRegistrationManager.exe, e.g. 
 ```
@@ -49,6 +49,6 @@ The guidance from Microsoft on using managed code (e.g. .net) to shell extension
 
 IEShellEx is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 
-The ZLIB code contained in IEMOSPreview is licenced under The Code Project Open Licence (CPOL) 1.02 (https://www.codeproject.com/info/cpol10.aspx)
+The ZLIB code contained in IEMOSPreview and IEBAMPreview is licenced under The Code Project Open Licence (CPOL) 1.02 (https://www.codeproject.com/info/cpol10.aspx)
 
 The application icon created by [Exhumed](https://iconarchive.com/show/mega-games-pack-25-icons-by-3xhumed/Baldur-s-Gate-1-icon.html) is licenced under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
