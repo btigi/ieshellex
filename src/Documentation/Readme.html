@@ -616,8 +616,8 @@
         <p>
             Well-formatted strref values referenced in the return from the script are automatically looked up in a TLK file. The format to trigger this behaviour is an @ preceeding the normal PowerShell variable escaping e.g. @${111} would trigger the shell extensions to automatically lookup strref 111.
         </p>
+        <b>tlkLocations.xml</b>
         <p>
-            <b>tlkLocations.xml</b><br />
             The shell extensions support multiple TLK locations in a hierarchy, and will search 'up' the directory tree from the file location until a matching TLK specification is found. TLK specifications are located in the tlkLocations.xml file location in the config directory in the install location. The tlkLocations.xml file can be cutomised to include the locations specific to your installations and mod directories, allowing any TLK references to reference the correct TLK file.
         </p>
         <p>
@@ -650,7 +650,7 @@
             The TIS Preview shell extension shows a graphical representation of the image information contained with TIS files. TIS files <i>only</i> contain graphical information, they do not contain any <i>dimension</i> information, i.e. it is not possible to determine the dimensions of an image from only a TIS file.
         </p>
         <p>
-            In order to display a TIS file with the expected dimensions, the TIS Preview shell extension checks areaDatas.xml (in the config directory in the install location). The shell extension matches the TIS filename to the filename in areaDatas.xml and then reads the image width and height from there. If the filename is not foud in areaData.xml the TIS Preview defaults to 64x64 pixels (i.e. a single tileset block). The default areaDatas.xml file contains image dimension information for Baldur's Gate (including TotS) and Baldur's Gate II (including ToB).
+            In order to display a TIS file with the expected dimensions, the TIS Preview shell extension checks areaDatas.xml (in the config directory in the install location). The shell extension matches the TIS filename and filesize to the information in areaDatas.xml (the filesize has an 8kb tolerance in either direction to account for mod-amendments) in order to read the image width and height from there. If the filename is not foud in areaData.xml the TIS Preview defaults to 64x64 pixels (i.e. a single tileset block). The default areaDatas.xml file contains image dimension information for Baldur's Gate (including TotS), Baldur's Gate II (including ToB), Planescape: Torment, Icewind Dale (including Heart of Winter and Trials of the Luremaster) and Icewind Date 2.
         </p>
         <p>
             You can edit areaData.xml with image dimension information for any custom areas, in order to provide information to facilitate a correctly rendered image.
@@ -683,7 +683,6 @@
             <br />
             Notes:<br />
             If multiple entries with the same name are located in the areaDatas.xml file the earliest occurance will be used.<br />
-            The current areaDatas.xml implementation differentiates between files based solely on the filename - this will cause incorrect image sizes e.g. for Baldur's Gate compared to Baldur's Gate II. It is intended to use the filesize information to make this differentiate in the future.
         </p>
     </main>
 </body>
