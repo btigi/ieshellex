@@ -6748,4 +6748,816 @@
   <Width>60</Width>
   <Height>45</Height>
 </AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR1000</Filename>
+  <Filesize>9446424</Filesize>
+  <Width>50</Width>
+  <Height>36</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR1001</Filename>
+  <Filesize>1914904</Filesize>
+  <Width>22</Width>
+  <Height>17</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR1002</Filename>
+  <Filesize>1945624</Filesize>
+  <Width>22</Width>
+  <Height>17</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR1003</Filename>
+  <Filesize>742424</Filesize>
+  <Width>16</Width>
+  <Height>9</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR1004</Filename>
+  <Filesize>414744</Filesize>
+  <Width>10</Width>
+  <Height>8</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR1005</Filename>
+  <Filesize>409624</Filesize>
+  <Width>10</Width>
+  <Height>8</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR1006</Filename>
+  <Filesize>409624</Filesize>
+  <Width>10</Width>
+  <Height>8</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR1007</Filename>
+  <Filesize>4239384</Filesize>
+  <Width>46</Width>
+  <Height>18</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR1100</Filename>
+  <Filesize>8811544</Filesize>
+  <Width>45</Width>
+  <Height>33</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR1101</Filename>
+  <Filesize>1064984</Filesize>
+  <Width>16</Width>
+  <Height>12</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR1102</Filename>
+  <Filesize>921624</Filesize>
+  <Width>15</Width>
+  <Height>12</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR1103</Filename>
+  <Filesize>732184</Filesize>
+  <Width>13</Width>
+  <Height>11</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR1104</Filename>
+  <Filesize>942104</Filesize>
+  <Width>14</Width>
+  <Height>12</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR1105</Filename>
+  <Filesize>1100824</Filesize>
+  <Width>14</Width>
+  <Height>13</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR1106</Filename>
+  <Filesize>599064</Filesize>
+  <Width>13</Width>
+  <Height>9</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR1107</Filename>
+  <Filesize>552984</Filesize>
+  <Width>12</Width>
+  <Height>9</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR1200</Filename>
+  <Filesize>15027224</Filesize>
+  <Width>60</Width>
+  <Height>45</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR1201</Filename>
+  <Filesize>716824</Filesize>
+  <Width>14</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR2000</Filename>
+  <Filesize>12451864</Filesize>
+  <Width>52</Width>
+  <Height>45</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR2001</Filename>
+  <Filesize>8350744</Filesize>
+  <Width>48</Width>
+  <Height>33</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR2002</Filename>
+  <Filesize>13824024</Filesize>
+  <Width>60</Width>
+  <Height>45</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR2100</Filename>
+  <Filesize>4382744</Filesize>
+  <Width>34</Width>
+  <Height>25</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR2101</Filename>
+  <Filesize>6768664</Filesize>
+  <Width>41</Width>
+  <Height>27</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR2102</Filename>
+  <Filesize>5995544</Filesize>
+  <Width>42</Width>
+  <Height>27</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR3000</Filename>
+  <Filesize>13952024</Filesize>
+  <Width>60</Width>
+  <Height>45</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR3001</Filename>
+  <Filesize>14069784</Filesize>
+  <Width>60</Width>
+  <Height>45</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR3002</Filename>
+  <Filesize>14008344</Filesize>
+  <Width>60</Width>
+  <Height>45</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR3100</Filename>
+  <Filesize>6108184</Filesize>
+  <Width>38</Width>
+  <Height>30</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR3101</Filename>
+  <Filesize>5888024</Filesize>
+  <Width>40</Width>
+  <Height>27</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR3102</Filename>
+  <Filesize>5647384</Filesize>
+  <Width>40</Width>
+  <Height>27</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR4000</Filename>
+  <Filesize>12354584</Filesize>
+  <Width>56</Width>
+  <Height>41</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR4001</Filename>
+  <Filesize>435224</Filesize>
+  <Width>10</Width>
+  <Height>8</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR4100</Filename>
+  <Filesize>13900824</Filesize>
+  <Width>51</Width>
+  <Height>41</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR4101</Filename>
+  <Filesize>14760984</Filesize>
+  <Width>59</Width>
+  <Height>46</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR4102</Filename>
+  <Filesize>14970904</Filesize>
+  <Width>60</Width>
+  <Height>46</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR4103</Filename>
+  <Filesize>0</Filesize>
+  <Width>60</Width>
+  <Height>46</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR5000</Filename>
+  <Filesize>6384664</Filesize>
+  <Width>43</Width>
+  <Height>29</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR5001</Filename>
+  <Filesize>5534744</Filesize>
+  <Width>47</Width>
+  <Height>23</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR5002</Filename>
+  <Filesize>501784</Filesize>
+  <Width>10</Width>
+  <Height>9</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR5004</Filename>
+  <Filesize>10880024</Filesize>
+  <Width>59</Width>
+  <Height>36</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR5005</Filename>
+  <Filesize>2140184</Filesize>
+  <Width>22</Width>
+  <Height>19</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR5010</Filename>
+  <Filesize>1075224</Filesize>
+  <Width>14</Width>
+  <Height>15</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR5011</Filename>
+  <Filesize>1152024</Filesize>
+  <Width>16</Width>
+  <Height>13</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR5012</Filename>
+  <Filesize>926744</Filesize>
+  <Width>14</Width>
+  <Height>12</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR5013</Filename>
+  <Filesize>0</Filesize>
+  <Width>14</Width>
+  <Height>12</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR5014</Filename>
+  <Filesize>0</Filesize>
+  <Width>14</Width>
+  <Height>12</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR5015</Filename>
+  <Filesize>1817624</Filesize>
+  <Width>19</Width>
+  <Height>18</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR5016</Filename>
+  <Filesize>911384</Filesize>
+  <Width>15</Width>
+  <Height>11</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR5017</Filename>
+  <Filesize>865304</Filesize>
+  <Width>16</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR5018</Filename>
+  <Filesize>0</Filesize>
+  <Width>16</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR5019</Filename>
+  <Filesize>0</Filesize>
+  <Width>16</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR5020</Filename>
+  <Filesize>1044504</Filesize>
+  <Width>17</Width>
+  <Height>12</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR5021</Filename>
+  <Filesize>1198104</Filesize>
+  <Width>16</Width>
+  <Height>14</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR5022</Filename>
+  <Filesize>0</Filesize>
+  <Width>16</Width>
+  <Height>14</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR5023</Filename>
+  <Filesize>0</Filesize>
+  <Width>16</Width>
+  <Height>14</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR5024</Filename>
+  <Filesize>870424</Filesize>
+  <Width>17</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR5025</Filename>
+  <Filesize>1146904</Filesize>
+  <Width>16</Width>
+  <Height>14</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR5026</Filename>
+  <Filesize>1438744</Filesize>
+  <Width>16</Width>
+  <Height>17</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR5027</Filename>
+  <Filesize>0</Filesize>
+  <Width>16</Width>
+  <Height>17</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR5028</Filename>
+  <Filesize>0</Filesize>
+  <Width>16</Width>
+  <Height>17</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR5029</Filename>
+  <Filesize>0</Filesize>
+  <Width>16</Width>
+  <Height>17</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR5030</Filename>
+  <Filesize>1566744</Filesize>
+  <Width>17</Width>
+  <Height>18</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR5100</Filename>
+  <Filesize>1792024</Filesize>
+  <Width>22</Width>
+  <Height>15</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR5101</Filename>
+  <Filesize>10531864</Filesize>
+  <Width>55</Width>
+  <Height>35</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR5102</Filename>
+  <Filesize>4142104</Filesize>
+  <Width>33</Width>
+  <Height>23</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR5200</Filename>
+  <Filesize>7736344</Filesize>
+  <Width>50</Width>
+  <Height>30</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR5201</Filename>
+  <Filesize>4300824</Filesize>
+  <Width>33</Width>
+  <Height>24</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR5202</Filename>
+  <Filesize>7695384</Filesize>
+  <Width>43</Width>
+  <Height>31</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR5203</Filename>
+  <Filesize>5724184</Filesize>
+  <Width>39</Width>
+  <Height>27</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR5300</Filename>
+  <Filesize>14018584</Filesize>
+  <Width>60</Width>
+  <Height>45</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR5301</Filename>
+  <Filesize>14673944</Filesize>
+  <Width>60</Width>
+  <Height>45</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR5302</Filename>
+  <Filesize>13864984</Filesize>
+  <Width>60</Width>
+  <Height>45</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR5303</Filename>
+  <Filesize>2268184</Filesize>
+  <Width>24</Width>
+  <Height>18</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR6000</Filename>
+  <Filesize>9328664</Filesize>
+  <Width>60</Width>
+  <Height>30</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR6001</Filename>
+  <Filesize>13911064</Filesize>
+  <Width>60</Width>
+  <Height>45</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR6002</Filename>
+  <Filesize>3220504</Filesize>
+  <Width>30</Width>
+  <Height>20</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR6003</Filename>
+  <Filesize>839704</Filesize>
+  <Width>14</Width>
+  <Height>11</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR6004</Filename>
+  <Filesize>286744</Filesize>
+  <Width>8</Width>
+  <Height>7</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR6005</Filename>
+  <Filesize>215064</Filesize>
+  <Width>6</Width>
+  <Height>7</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR6006</Filename>
+  <Filesize>286744</Filesize>
+  <Width>7</Width>
+  <Height>8</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR6007</Filename>
+  <Filesize>358424</Filesize>
+  <Width>10</Width>
+  <Height>7</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR6008</Filename>
+  <Filesize>358424</Filesize>
+  <Width>7</Width>
+  <Height>10</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR6009</Filename>
+  <Filesize>245784</Filesize>
+  <Width>6</Width>
+  <Height>8</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR6010</Filename>
+  <Filesize>368664</Filesize>
+  <Width>9</Width>
+  <Height>8</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR6050</Filename>
+  <Filesize>6676504</Filesize>
+  <Width>41</Width>
+  <Height>31</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR6051</Filename>
+  <Filesize>16250904</Filesize>
+  <Width>60</Width>
+  <Height>45</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR6100</Filename>
+  <Filesize>1536024</Filesize>
+  <Width>20</Width>
+  <Height>15</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR6101</Filename>
+  <Filesize>14172184</Filesize>
+  <Width>60</Width>
+  <Height>45</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR6102</Filename>
+  <Filesize>14228504</Filesize>
+  <Width>60</Width>
+  <Height>45</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR6103</Filename>
+  <Filesize>14243864</Filesize>
+  <Width>60</Width>
+  <Height>45</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR6104</Filename>
+  <Filesize>15662104</Filesize>
+  <Width>60</Width>
+  <Height>45</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR6200</Filename>
+  <Filesize>14080024</Filesize>
+  <Width>60</Width>
+  <Height>45</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR6201</Filename>
+  <Filesize>3875864</Filesize>
+  <Width>28</Width>
+  <Height>27</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR6300</Filename>
+  <Filesize>1505304</Filesize>
+  <Width>21</Width>
+  <Height>14</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR6301</Filename>
+  <Filesize>8811544</Filesize>
+  <Width>46</Width>
+  <Height>37</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR6302</Filename>
+  <Filesize>9584664</Filesize>
+  <Width>50</Width>
+  <Height>37</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR6303</Filename>
+  <Filesize>8248344</Filesize>
+  <Width>45</Width>
+  <Height>35</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR6304</Filename>
+  <Filesize>8064024</Filesize>
+  <Width>45</Width>
+  <Height>35</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR6305</Filename>
+  <Filesize>0</Filesize>
+  <Width>45</Width>
+  <Height>35</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR6400</Filename>
+  <Filesize>1080344</Filesize>
+  <Width>15</Width>
+  <Height>14</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR6401</Filename>
+  <Filesize>1971224</Filesize>
+  <Width>20</Width>
+  <Height>17</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR6402</Filename>
+  <Filesize>1228824</Filesize>
+  <Width>16</Width>
+  <Height>15</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR6403</Filename>
+  <Filesize>1218584</Filesize>
+  <Width>17</Width>
+  <Height>14</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR6500</Filename>
+  <Filesize>2503704</Filesize>
+  <Width>20</Width>
+  <Height>18</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR6501</Filename>
+  <Filesize>1751064</Filesize>
+  <Width>19</Width>
+  <Height>18</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR6502</Filename>
+  <Filesize>1843224</Filesize>
+  <Width>20</Width>
+  <Height>18</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR6503</Filename>
+  <Filesize>1909784</Filesize>
+  <Width>20</Width>
+  <Height>17</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR6600</Filename>
+  <Filesize>1909784</Filesize>
+  <Width>20</Width>
+  <Height>18</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR6601</Filename>
+  <Filesize>1843224</Filesize>
+  <Width>20</Width>
+  <Height>18</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR6602</Filename>
+  <Filesize>1843224</Filesize>
+  <Width>20</Width>
+  <Height>18</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR6603</Filename>
+  <Filesize>1223704</Filesize>
+  <Width>15</Width>
+  <Height>14</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR6700</Filename>
+  <Filesize>1745944</Filesize>
+  <Width>19</Width>
+  <Height>16</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR6701</Filename>
+  <Filesize>860184</Filesize>
+  <Width>14</Width>
+  <Height>12</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR6702</Filename>
+  <Filesize>1157144</Filesize>
+  <Width>15</Width>
+  <Height>13</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR6703</Filename>
+  <Filesize>1075224</Filesize>
+  <Width>15</Width>
+  <Height>14</Height>
+</AreaData>
+<AreaData>
+  <Game>IWD2</Game>
+  <Filename>AR6800</Filename>
+  <Filesize>1131544</Filesize>
+  <Width>17</Width>
+  <Height>13</Height>
+</AreaData>
 </ArrayOfAreaData>
