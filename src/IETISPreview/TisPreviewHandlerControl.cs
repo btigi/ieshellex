@@ -106,8 +106,14 @@ namespace IETISPreview
             var areaData = new FileStream(path, FileMode.Open, FileAccess.Read);
             areaDatas = (List<AreaData>)serializer.Deserialize(areaData);
 
+            const int FileSizeTolerance = 8192;
             var basefilename = Path.GetFileNameWithoutExtension(filename);
-            var relevantAreaData = areaDatas.Where(w => w.Filename?.ToLower() == basefilename?.ToLower()).FirstOrDefault();
+            var filesize = new FileInfo(filename).Length;
+            var lowerLimit = filesize - FileSizeTolerance;
+            var upperLimit = filesize + FileSizeTolerance;
+
+            var relevantAreaDatas = areaDatas.Where(w => w.Filename?.ToLower() == basefilename?.ToLower());
+            var relevantAreaData = relevantAreaDatas.Where(w => w.Filesize >= lowerLimit && w.Filesize <= upperLimit).FirstOrDefault();
             relevantAreaData = relevantAreaData == null ? new AreaData(1, 1) : relevantAreaData;
 
             using (var fs = new FileStream(filename, FileMode.Open, FileAccess.Read))
@@ -166,7 +172,7 @@ namespace IETISPreview
                                     bytes[DSTIndex + 2] = blockArray[blockIndex].palette[blockArray[blockIndex].data[(k * pixelcol) + m] * 4 + 2]; // Red
                                     bytes[DSTIndex + 3] = 255;
 
-                                    DSTIndex = DSTIndex + 4;
+                                    DSTIndex += 4;
                                 }
                             }
                         }
