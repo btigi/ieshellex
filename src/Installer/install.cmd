@@ -23,6 +23,7 @@ ServerRegistrationManager.exe install IEMENUInfotip.dll -codebase
 ServerRegistrationManager.exe install IEMOSInfotip.dll -codebase
 ServerRegistrationManager.exe install IEMOSPreview.dll -codebase
 ServerRegistrationManager.exe install IEMUSInfotip.dll -codebase
+ServerRegistrationManager.exe install IEPLTPreview.dll -codebase
 ServerRegistrationManager.exe install IEPROInfotip.dll -codebase
 ServerRegistrationManager.exe install IESPLInfotip.dll -codebase
 ServerRegistrationManager.exe install IESQLInfotip.dll -codebase

@@ -17,6 +17,7 @@ copy ..\Documentation\Readme.html output\
 :: Config files
 copy areaDatas.xml output\
 copy tlkLocations.xml output\
+copy MPAL256.BMP output\
 
 :: Resources
 copy icon.ico output\
@@ -54,6 +55,7 @@ copy ..\IEMENUInfotip\bin\Release\IEMENUInfotip.dll output\
 copy ..\IEMOSInfotip\bin\Release\IEMOSInfotip.dll output\
 copy ..\IEMosPreview\bin\Release\IEMOSPreview.dll output\
 copy ..\IEMUSInfotip\bin\Release\IEMUSInfotip.dll output\
+copy ..\IEPLTPreview\bin\Release\IEPLTPreview.dll output\
 copy ..\IEPROInfotip\bin\Release\IEPROInfotip.dll output\
 copy ..\IESPLInfotip\bin\Release\IESPLInfotip.dll output\
 copy ..\IESQLInfotip\bin\Release\IESQLInfotip.dll output\

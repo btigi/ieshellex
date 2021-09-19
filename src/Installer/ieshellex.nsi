@@ -123,7 +123,7 @@ File /oname=config\vvc.ps1 vvc.ps1
 File /oname=config\wed.ps1 wed.ps1
 File /oname=config\wfx.ps1 wfx.ps1
 File /oname=config\wmp.ps1 wmp.ps1
-
+File /oname=config\MPAL256.BMP MPAL256.BMP
 File /oname=config\tlkLocations.xml tlkLocations.xml
 File /oname=config\areaDatas.xml areaDatas.xml
 
@@ -150,6 +150,7 @@ File /oname=bin\IEMENUInfotip.dll IEMENUInfotip.dll
 File /oname=bin\IEMOSInfotip.dll IEMOSInfotip.dll
 File /oname=bin\IEMosPreview.dll IEMosPreview.dll
 File /oname=bin\IEMUSInfotip.dll IEMUSInfotip.dll
+File /oname=bin\IEPLTPreview.dll IEPLTPreview.dll
 File /oname=bin\IEPROInfotip.dll IEPROInfotip.dll
 File /oname=bin\IESPLInfotip.dll IESPLInfotip.dll
 File /oname=bin\IESQLInfotip.dll IESQLInfotip.dll
@@ -266,6 +267,7 @@ Delete $INSTDIR\config\wmp.ps1
 
 Delete $INSTDIR\config\tlkLocations.xml
 Delete $INSTDIR\config\areaDatas.xml
+Delete $INSTDIR\config\MPAL256.BMP
 
 Delete $INSTDIR\bin\Uninstall.exe
 Delete $INSTDIR\bin\IE2DAInfotip.dll
@@ -291,6 +293,7 @@ Delete $INSTDIR\bin\IEMENUInfotip.dll
 Delete $INSTDIR\bin\IEMOSInfotip.dll
 Delete $INSTDIR\bin\IEMosPreview.dll
 Delete $INSTDIR\bin\IEMUSInfotip.dll
+Delete $INSTDIR\bin\IEPLTPreview.dll
 Delete $INSTDIR\bin\IEPROInfotip.dll
 Delete $INSTDIR\bin\IESPLInfotip.dll
 Delete $INSTDIR\bin\IESQLInfotip.dll

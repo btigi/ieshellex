@@ -23,6 +23,7 @@ ServerRegistrationManager.exe uninstall IEMENUInfotip.dll
 ServerRegistrationManager.exe uninstall IEMOSInfotip.dll
 ServerRegistrationManager.exe uninstall IEMOSPreview.dll
 ServerRegistrationManager.exe uninstall IEMUSInfotip.dll
+ServerRegistrationManager.exe uninstall IEPLTPreview.dll
 ServerRegistrationManager.exe uninstall IEPROInfotip.dll
 ServerRegistrationManager.exe uninstall IESPLInfotip.dll
 ServerRegistrationManager.exe uninstall IESQLInfotip.dll

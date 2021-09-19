@@ -1,4 +1,5 @@
 ﻿using SharpShell.SharpPreviewHandler;
+using System;
 using System.Collections.Generic;
 using System.Drawing;
 using System.Drawing.Imaging;
@@ -132,7 +133,8 @@ namespace IEPLTPreview
 
             if (version == "V1  " && signature == "PLT ")
             {
-                var palette = new Bitmap(@"C:\Users\Marc\Desktop\MPAL256.BMP");
+                var path = Path.Combine(Environment.GetEnvironmentVariable("ieshellex", EnvironmentVariableTarget.Machine), "config", "MPAL256.BMP");
+                var palette = new Bitmap(path);
                 var colours = new List<Color>();
 
                 for (int i = 0; i < width * height; i++)
