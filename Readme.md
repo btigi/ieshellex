@@ -1,3 +1,7 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/m7j4igwrdws9de57?svg=true)](https://ci.appveyor.com/project/igi/ieshellex)
+
+---
+
 # IEShellEx
 
 A series of plugin shell extensions for the Windows shell to expose the content of file-types used in the Infinity Engine. For more details view the application [readme](https://htmlpreview.github.io/?https://github.com/btigi/ieshellex/blob/master/src/Documentation/Readme.html)
