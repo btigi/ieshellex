@@ -5,16 +5,56 @@
     <meta charset="utf-8" />
     <title>Infinity Engine Shell Extensions</title>
     <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f9;
+        }
+
+        h1 {
+            color: #333;
+            text-align: center;
+        }        
+
         .container {
-            max-width: 1200px;
+            max-width: 1000px;
             margin: 0 auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
         }
 
         img {
             height: auto;
-            width: 100%;
+            max-width: 80%;
             padding: 25px;
+            margin: 10px auto;
+            display: block;
+            filter: drop-shadow(3px 5px 3px #000);
         }
+
+        @media (prefers-color-scheme: dark) {
+            body {
+                background-color: #1e1e1e;
+                color: #f4f4f9;
+            }
+
+            h1 {
+                color: #f4f4f9;
+                text-align: center;
+            }
+
+            .container {
+                background-color: #333;
+                box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+            }
+
+            img {
+                filter: drop-shadow(3px 5px 3px #ccc);
+            }
+        }        
     </style>
 </head>
 <body>
@@ -36,17 +76,19 @@
 
         <b>Tooltips</b><br />
         Tooltips appear when hovering over a file in File Explorer.<br />
-        <img src="tooltip-itm.png" />
+        <img src="tooltip-itm.png" alt="Windows explorer showing a tooltip with information on an ITM file" />
+        <img src="tooltip-cre.png" alt="Windows explorer showing a tooltip with information on a CRE file" />
         <br />
         <br />
         <b>Graphical Previews</b><br />
         Graphical Previews appear in the details pane of File Explorer when a file is selected.<br />
-        <img src="thumbnail-tis.png" />
+        <img src="thumbnail-tis.png" alt="Windows explorer showing a preview of a TIS file" />
+        <img src="thumbnail-tis2.png" alt="Windows explorer showing a preview of a TIS file" />
         <br />
         <br />
         <b>Text Previews</b><br />
         Text Previews appear in the details pane of File Explorer when a file is selected.<br />
-        <img src="text-2da.png" />
+        <img src="text-2da.png" alt="Windows explorer showing a preview of a 2da file" />
         <br />
         <h2>What files are supported?</h2>
 
@@ -623,10 +665,11 @@
         </p>
         <p>
             A sample tlkLocations.xml file is displayed below, it contains three TLK file references.<br />
-            &bull; Any file with a TLK reference within the D:\mymods\AmelyssanRomance directory will use the D:\Games\IE\BG2EE\00783\lang\en_US\dialog.tlk TLK file.<br />
-            &bull; Any file with a TLK reference within the D:\ drive will use the D:\Games\IE\sod\00806\lang\en_US\dialog.tlk TLK file.<br />
-            &bull; Any file with a TLK reference within the C:\drive will use the D:\Games\IE\BG1\dialog.tlk TLK file.<br />
-
+            <ul>
+                <li> Any file with a TLK reference within the D:\mymods\AmelyssanRomance directory will use the D:\Games\IE\BG2EE\00783\lang\en_US\dialog.tlk TLK file.</li>
+                <li> Any file with a TLK reference within the D:\ drive will use the D:\Games\IE\sod\00806\lang\en_US\dialog.tlk TLK file.</li>
+                <li> Any file with a TLK reference within the C:\drive will use the D:\Games\IE\BG1\dialog.tlk TLK file.</li>
+            </ul>
             <pre>
 &lt;?xml version="1.0" encoding="ibm850" ?&gt;
 &lt;ArrayOfTlkLocationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
@@ -658,8 +701,10 @@
         </p>
         <p>
             A sample areasData.xml file is displayed below, it contains two area definitions.<br />
-            &bull; Any file named AR0002.tis will be displayed with a width of 14 blocks (896 pixels) and a height of 10 blocks (640 pixels)<br />
-            &bull; Any file named AR0100.tis will be displayed with a width of 67 blocks (4288 pixels) and a height of 50 blocks (3200 pixels)<br />
+            <ul>
+                <li> Any file named AR0002.tis will be displayed with a width of 14 blocks (896 pixels) and a height of 10 blocks (640 pixels)</li>
+                <li> Any file named AR0100.tis will be displayed with a width of 67 blocks (4288 pixels) and a height of 50 blocks (3200 pixels)</li>
+            </ul>
             <br />
             Note: 1 block is 64 pixels.
             <pre>
